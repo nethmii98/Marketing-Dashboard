@@ -1,5 +1,6 @@
 # macOS System Files
 .DS_Store
+data/.DS_Store
 .AppleDouble
 .LSOverride
 ._*
