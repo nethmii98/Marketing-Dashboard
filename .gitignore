@@ -1,6 +1,4 @@
-# ========================================
 # macOS System Files
-# ========================================
 .DS_Store
 .AppleDouble
 .LSOverride
@@ -11,28 +9,25 @@ Icon?
 ehthumbs.db
 Thumbs.db
 
-# ========================================
+
 # General Backup / Logs
-# ========================================
 *.log
 *.tmp
 *.swp
 *.bak
 *.old
 *.orig
+notebooks/
 
-# ========================================
 # Node.js / npm / Yarn
-# ========================================
 node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .pnpm-store/
 
-# ========================================
+
 # Python
-# ========================================
 __pycache__/
 *.py[cod]
 *.egg
@@ -47,9 +42,8 @@ ENV/
 Pipfile.lock
 poetry.lock
 
-# ========================================
+
 # Java / Maven / Gradle
-# ========================================
 *.class
 *.jar
 *.war
@@ -59,9 +53,8 @@ target/
 .gradle/
 build/
 
-# ========================================
+
 # Swift / Xcode
-# ========================================
 build/
 DerivedData/
 *.pbxuser
@@ -76,25 +69,22 @@ xcuserdata/
 *.xccheckout
 *.xcscmblueprint
 
-# ========================================
+
 # VS Code
-# ========================================
 .vscode/
 .history/
 *.code-workspace
 
-# ========================================
+
 # JetBrains IDEs (IntelliJ, PyCharm, WebStorm, etc.)
-# ========================================
 .idea/
 *.iml
 out/
 *.ipr
 *.iws
 
-# ========================================
+
 # Environment / Secrets
-# ========================================
 .env
 .env.local
 .env.*
@@ -102,9 +92,8 @@ out/
 .secret
 secrets.json
 
-# ========================================
+
 # Miscellaneous
-# ========================================
 *.lock
 package-lock.json
 yarn.lock
