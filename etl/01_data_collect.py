@@ -12,8 +12,9 @@ channels = [
     ("paid","GoogleAds")
 ]
 
-start = dt.date(2025, 1, 1)
-days = 297
+
+start = dt.date(2025, 8, 1)
+days  = 60
 
 with open(file_path,"w",newline="") as f:
     w = csv.writer(f)
@@ -27,6 +28,6 @@ with open(file_path,"w",newline="") as f:
             conv= int(pv * random.uniform(0.02, 0.12))
             rev = round(conv * random.uniform(10, 60), 2)
             cost= round(imp * (0.005 if ch!="paid" else 0.02), 2)
-            w.writerow([day.isoformat(), ch, pf, f"{pf}_Sept", imp, clk, pv, conv, rev, cost])
+            w.writerow([day.isoformat(), ch, pf, f"{pf}_Autumn", imp, clk, pv, conv, rev, cost])
 
 print("Wrote data/raw/marketing_metrics.csv")
