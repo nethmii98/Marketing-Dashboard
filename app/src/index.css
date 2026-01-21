@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg:            #f6f7fb;  
+  --color-surface:       #ffffff;  
+  --color-border:        #e6e8f0;
+
+  --color-primary:       #6a5ae0; 
+  --color-primary-700:   #5b4ed0;
+  --color-indigo:        #4f46e5;  
+  --color-blue:          #0ea5e9;  
+  --color-cyan:          #22d3ee;  
+  --color-green:         #16c38c;
+  --color-purple:        #7c36e1;
+  --color-orange:        #ff8b4f;
+  --color-watermelon:    #fe4e7f;
+  --color-lightblue:     #41b6ff;
+  --color-indigo-light: #837dec;
+  --color-purple-light:  #a372ea;
+  --color-orange-light:  #fead83;
+  --color-watermelon-light:  #fe83a5;
+
+
+  --color-success:       #10b981;
+  --color-warning:       #f59e0b;
+  --color-danger:        #ef4444;
+
+  --color-title:         #0f172a;
+  --color-muted:         #64748b;
+
+  --radius-card:         1rem;     
+}
+
+.bg-bg        { background-color: var(--color-bg); }
+.bg-surface   { background-color: var(--color-surface); }
+.text-title   { color: var(--color-title); }
+.text-muted   { color: var(--color-muted); }
+.border-soft  { border-color: var(--color-border); }
+.rounded-card { border-radius: var(--radius-card); }
+
+.kpi-bg-indigo     { background: color-mix(in srgb, var(--color-indigo) 15%, white); }
+.kpi-bg-orange     { background: color-mix(in srgb, var(--color-orange) 15%, white); }
+.kpi-bg-watermelon { background: color-mix(in srgb, var(--color-watermelon) 15%, white); }
+.kpi-bg-lightblue  { background: color-mix(in srgb, var(--color-lightblue) 15%, white); }
+
+.kpi-fg-indigo     { color: var(--color-indigo); }
+.kpi-fg-orange     { color: var(--color-orange); }
+.kpi-fg-watermelon { color: var(--color-watermelon); }
+.kpi-fg-lightblue  { color: var(--color-lightblue); }
+
+

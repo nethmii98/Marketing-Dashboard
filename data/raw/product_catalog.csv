@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_price,popularity,cogs_rate
+E100,Wireless Earbuds,Electronics,79,0.79,0.59
+E110,Smart Watch,Electronics,149,0.66,0.53
+E120,Bluetooth Speaker,Electronics,99,0.61,0.41
+E130,USB-C Hub,Electronics,39,1.8,0.4
+A200,Athletic T-Shirt,Apparel,25,1.33,0.46
+A210,Yoga Pants,Apparel,45,1.09,0.47
+A220,Hoodie,Apparel,55,0.75,0.56
+A230,Running Shoes,Apparel,95,0.62,0.41
+H300,Aroma Diffuser,Home,29,0.53,0.42
+H310,Weighted Blanket,Home,69,1.03,0.58
+H320,LED Desk Lamp,Home,35,0.99,0.38
+H330,Air Purifier,Home,129,0.84,0.6
+B400,Vitamin C Serum,Beauty,32,0.58,0.51
+B410,Moisturizer,Beauty,28,0.99,0.52
+B420,SPF Sunscreen,Beauty,24,0.94,0.52
+B430,Hair Oil,Beauty,19,1.15,0.51
+S500,Adjustable Dumbbells,Sports,199,1.67,0.5
+S510,Resistance Bands Set,Sports,22,0.68,0.37
+S520,Foam Roller,Sports,18,1.73,0.47
+S530,Cycling Gloves,Sports,27,0.75,0.59

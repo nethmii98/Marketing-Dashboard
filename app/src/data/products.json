@@ -1,0 +1,4509 @@
+{
+  "kpis": {
+    "totalUnits": 200277,
+    "totalRevenue": 11716551.6,
+    "totalMargin": 5576834.19,
+    "orders": 143092,
+    "adAssistedPct": 43.14,
+    "returns": 4286,
+    "aov": 81.88
+  },
+  "daily": [
+    {
+      "order_date": "2025-01-01",
+      "units": 272,
+      "ad_units": 99,
+      "revenue": 16287.0,
+      "margin": 7604.5199999999995,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-01-02",
+      "units": 581,
+      "ad_units": 251,
+      "revenue": 35588.05,
+      "margin": 17299.47,
+      "returns": 6
+    },
+    {
+      "order_date": "2025-01-03",
+      "units": 486,
+      "ad_units": 132,
+      "revenue": 28256.5,
+      "margin": 13543.48,
+      "returns": 13
+    },
+    {
+      "order_date": "2025-01-04",
+      "units": 466,
+      "ad_units": 217,
+      "revenue": 25645.45,
+      "margin": 12023.51,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-01-05",
+      "units": 410,
+      "ad_units": 197,
+      "revenue": 22903.85,
+      "margin": 11002.25,
+      "returns": 5
+    },
+    {
+      "order_date": "2025-01-06",
+      "units": 785,
+      "ad_units": 281,
+      "revenue": 48545.95,
+      "margin": 22804.829999999998,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-01-07",
+      "units": 532,
+      "ad_units": 124,
+      "revenue": 33458.7,
+      "margin": 16065.2,
+      "returns": 12
+    },
+    {
+      "order_date": "2025-01-08",
+      "units": 515,
+      "ad_units": 125,
+      "revenue": 29630.8,
+      "margin": 13934.38,
+      "returns": 17
+    },
+    {
+      "order_date": "2025-01-09",
+      "units": 511,
+      "ad_units": 142,
+      "revenue": 29911.85,
+      "margin": 14341.09,
+      "returns": 12
+    },
+    {
+      "order_date": "2025-01-10",
+      "units": 466,
+      "ad_units": 92,
+      "revenue": 24553.15,
+      "margin": 11694.77,
+      "returns": 12
+    },
+    {
+      "order_date": "2025-01-11",
+      "units": 644,
+      "ad_units": 162,
+      "revenue": 37916.35,
+      "margin": 18156.01,
+      "returns": 20
+    },
+    {
+      "order_date": "2025-01-12",
+      "units": 419,
+      "ad_units": 226,
+      "revenue": 24921.45,
+      "margin": 11893.24,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-01-13",
+      "units": 511,
+      "ad_units": 173,
+      "revenue": 30088.1,
+      "margin": 14718.9,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-01-14",
+      "units": 625,
+      "ad_units": 110,
+      "revenue": 37836.4,
+      "margin": 17676.85,
+      "returns": 13
+    },
+    {
+      "order_date": "2025-01-15",
+      "units": 544,
+      "ad_units": 126,
+      "revenue": 33003.75,
+      "margin": 15679.52,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-01-16",
+      "units": 466,
+      "ad_units": 224,
+      "revenue": 26053.0,
+      "margin": 12623.01,
+      "returns": 8
+    },
+    {
+      "order_date": "2025-01-17",
+      "units": 538,
+      "ad_units": 279,
+      "revenue": 30521.3,
+      "margin": 14950.65,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-01-18",
+      "units": 244,
+      "ad_units": 56,
+      "revenue": 13871.8,
+      "margin": 6610.07,
+      "returns": 8
+    },
+    {
+      "order_date": "2025-01-19",
+      "units": 695,
+      "ad_units": 269,
+      "revenue": 38908.85,
+      "margin": 18382.329999999998,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-01-20",
+      "units": 346,
+      "ad_units": 117,
+      "revenue": 19726.2,
+      "margin": 9267.81,
+      "returns": 8
+    },
+    {
+      "order_date": "2025-01-21",
+      "units": 254,
+      "ad_units": 64,
+      "revenue": 15343.9,
+      "margin": 7106.21,
+      "returns": 6
+    },
+    {
+      "order_date": "2025-01-22",
+      "units": 548,
+      "ad_units": 231,
+      "revenue": 31349.7,
+      "margin": 15058.92,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-01-23",
+      "units": 391,
+      "ad_units": 183,
+      "revenue": 21905.2,
+      "margin": 10289.92,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-01-24",
+      "units": 540,
+      "ad_units": 172,
+      "revenue": 31300.25,
+      "margin": 14797.66,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-01-25",
+      "units": 889,
+      "ad_units": 183,
+      "revenue": 53741.45,
+      "margin": 25134.57,
+      "returns": 20
+    },
+    {
+      "order_date": "2025-01-26",
+      "units": 452,
+      "ad_units": 168,
+      "revenue": 25835.4,
+      "margin": 11957.76,
+      "returns": 13
+    },
+    {
+      "order_date": "2025-01-27",
+      "units": 528,
+      "ad_units": 217,
+      "revenue": 31745.4,
+      "margin": 15248.43,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-01-28",
+      "units": 526,
+      "ad_units": 137,
+      "revenue": 32800.65,
+      "margin": 15815.37,
+      "returns": 13
+    },
+    {
+      "order_date": "2025-01-29",
+      "units": 417,
+      "ad_units": 105,
+      "revenue": 23509.15,
+      "margin": 10832.46,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-01-30",
+      "units": 275,
+      "ad_units": 95,
+      "revenue": 14802.15,
+      "margin": 6883.5199999999995,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-01-31",
+      "units": 534,
+      "ad_units": 244,
+      "revenue": 30292.85,
+      "margin": 14363.25,
+      "returns": 16
+    },
+    {
+      "order_date": "2025-02-01",
+      "units": 284,
+      "ad_units": 121,
+      "revenue": 16259.4,
+      "margin": 7764.53,
+      "returns": 4
+    },
+    {
+      "order_date": "2025-02-02",
+      "units": 545,
+      "ad_units": 265,
+      "revenue": 32574.95,
+      "margin": 15486.13,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-02-03",
+      "units": 624,
+      "ad_units": 103,
+      "revenue": 35602.3,
+      "margin": 17638.739999999998,
+      "returns": 8
+    },
+    {
+      "order_date": "2025-02-04",
+      "units": 229,
+      "ad_units": 58,
+      "revenue": 11109.9,
+      "margin": 4937.63,
+      "returns": 8
+    },
+    {
+      "order_date": "2025-02-05",
+      "units": 427,
+      "ad_units": 179,
+      "revenue": 25402.05,
+      "margin": 12143.42,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-02-06",
+      "units": 979,
+      "ad_units": 207,
+      "revenue": 54590.95,
+      "margin": 25225.15,
+      "returns": 21
+    },
+    {
+      "order_date": "2025-02-07",
+      "units": 528,
+      "ad_units": 105,
+      "revenue": 32320.15,
+      "margin": 15627.39,
+      "returns": 8
+    },
+    {
+      "order_date": "2025-02-08",
+      "units": 695,
+      "ad_units": 186,
+      "revenue": 40567.45,
+      "margin": 19651.99,
+      "returns": 18
+    },
+    {
+      "order_date": "2025-02-09",
+      "units": 607,
+      "ad_units": 298,
+      "revenue": 33673.15,
+      "margin": 16140.84,
+      "returns": 12
+    },
+    {
+      "order_date": "2025-02-10",
+      "units": 913,
+      "ad_units": 417,
+      "revenue": 53442.35,
+      "margin": 25621.15,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-02-11",
+      "units": 888,
+      "ad_units": 279,
+      "revenue": 51114.1,
+      "margin": 23954.35,
+      "returns": 16
+    },
+    {
+      "order_date": "2025-02-12",
+      "units": 474,
+      "ad_units": 75,
+      "revenue": 28456.75,
+      "margin": 13478.14,
+      "returns": 12
+    },
+    {
+      "order_date": "2025-02-13",
+      "units": 602,
+      "ad_units": 308,
+      "revenue": 33994.9,
+      "margin": 16141.79,
+      "returns": 17
+    },
+    {
+      "order_date": "2025-02-14",
+      "units": 312,
+      "ad_units": 120,
+      "revenue": 19408.85,
+      "margin": 9492.75,
+      "returns": 4
+    },
+    {
+      "order_date": "2025-02-15",
+      "units": 659,
+      "ad_units": 149,
+      "revenue": 40042.0,
+      "margin": 19275.14,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-02-16",
+      "units": 660,
+      "ad_units": 238,
+      "revenue": 38573.65,
+      "margin": 18353.829999999998,
+      "returns": 13
+    },
+    {
+      "order_date": "2025-02-17",
+      "units": 605,
+      "ad_units": 275,
+      "revenue": 35168.3,
+      "margin": 16756.83,
+      "returns": 16
+    },
+    {
+      "order_date": "2025-02-18",
+      "units": 672,
+      "ad_units": 168,
+      "revenue": 40612.0,
+      "margin": 19457.16,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-02-19",
+      "units": 432,
+      "ad_units": 129,
+      "revenue": 25655.35,
+      "margin": 12410.75,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-02-20",
+      "units": 635,
+      "ad_units": 175,
+      "revenue": 35690.6,
+      "margin": 16917.73,
+      "returns": 16
+    },
+    {
+      "order_date": "2025-02-21",
+      "units": 584,
+      "ad_units": 251,
+      "revenue": 31500.45,
+      "margin": 15340.67,
+      "returns": 12
+    },
+    {
+      "order_date": "2025-02-22",
+      "units": 444,
+      "ad_units": 146,
+      "revenue": 27289.55,
+      "margin": 12835.58,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-02-23",
+      "units": 272,
+      "ad_units": 62,
+      "revenue": 16585.75,
+      "margin": 7982.2,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-02-24",
+      "units": 684,
+      "ad_units": 309,
+      "revenue": 39383.55,
+      "margin": 19329.64,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-02-25",
+      "units": 491,
+      "ad_units": 239,
+      "revenue": 30087.85,
+      "margin": 14765.24,
+      "returns": 8
+    },
+    {
+      "order_date": "2025-02-26",
+      "units": 421,
+      "ad_units": 114,
+      "revenue": 24738.95,
+      "margin": 11618.98,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-02-27",
+      "units": 492,
+      "ad_units": 165,
+      "revenue": 27270.85,
+      "margin": 13129.4,
+      "returns": 8
+    },
+    {
+      "order_date": "2025-02-28",
+      "units": 683,
+      "ad_units": 128,
+      "revenue": 37680.9,
+      "margin": 18044.7,
+      "returns": 8
+    },
+    {
+      "order_date": "2025-03-01",
+      "units": 535,
+      "ad_units": 214,
+      "revenue": 30753.7,
+      "margin": 14164.4,
+      "returns": 16
+    },
+    {
+      "order_date": "2025-03-02",
+      "units": 669,
+      "ad_units": 295,
+      "revenue": 39245.3,
+      "margin": 18581.85,
+      "returns": 16
+    },
+    {
+      "order_date": "2025-03-03",
+      "units": 611,
+      "ad_units": 220,
+      "revenue": 35017.2,
+      "margin": 16659.56,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-03-04",
+      "units": 877,
+      "ad_units": 285,
+      "revenue": 53754.6,
+      "margin": 25737.55,
+      "returns": 17
+    },
+    {
+      "order_date": "2025-03-05",
+      "units": 739,
+      "ad_units": 162,
+      "revenue": 41580.45,
+      "margin": 20175.9,
+      "returns": 17
+    },
+    {
+      "order_date": "2025-03-06",
+      "units": 489,
+      "ad_units": 190,
+      "revenue": 29495.0,
+      "margin": 14045.289999999999,
+      "returns": 12
+    },
+    {
+      "order_date": "2025-03-07",
+      "units": 544,
+      "ad_units": 87,
+      "revenue": 29521.45,
+      "margin": 13923.24,
+      "returns": 12
+    },
+    {
+      "order_date": "2025-03-08",
+      "units": 455,
+      "ad_units": 154,
+      "revenue": 25869.9,
+      "margin": 12182.539999999999,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-03-09",
+      "units": 499,
+      "ad_units": 89,
+      "revenue": 31116.6,
+      "margin": 14915.17,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-03-10",
+      "units": 1184,
+      "ad_units": 214,
+      "revenue": 68382.55,
+      "margin": 32519.26,
+      "returns": 24
+    },
+    {
+      "order_date": "2025-03-11",
+      "units": 407,
+      "ad_units": 91,
+      "revenue": 24029.65,
+      "margin": 11196.45,
+      "returns": 16
+    },
+    {
+      "order_date": "2025-03-12",
+      "units": 437,
+      "ad_units": 70,
+      "revenue": 27063.25,
+      "margin": 12812.64,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-03-13",
+      "units": 620,
+      "ad_units": 148,
+      "revenue": 36920.75,
+      "margin": 17369.32,
+      "returns": 14
+    },
+    {
+      "order_date": "2025-03-14",
+      "units": 338,
+      "ad_units": 79,
+      "revenue": 18653.95,
+      "margin": 9252.53,
+      "returns": 5
+    },
+    {
+      "order_date": "2025-03-15",
+      "units": 968,
+      "ad_units": 174,
+      "revenue": 58695.0,
+      "margin": 27243.97,
+      "returns": 24
+    },
+    {
+      "order_date": "2025-03-16",
+      "units": 891,
+      "ad_units": 241,
+      "revenue": 48887.65,
+      "margin": 23735.47,
+      "returns": 20
+    },
+    {
+      "order_date": "2025-03-17",
+      "units": 549,
+      "ad_units": 131,
+      "revenue": 31319.5,
+      "margin": 14894.56,
+      "returns": 13
+    },
+    {
+      "order_date": "2025-03-18",
+      "units": 581,
+      "ad_units": 96,
+      "revenue": 33947.85,
+      "margin": 15621.9,
+      "returns": 23
+    },
+    {
+      "order_date": "2025-03-19",
+      "units": 921,
+      "ad_units": 271,
+      "revenue": 55060.3,
+      "margin": 25763.329999999998,
+      "returns": 27
+    },
+    {
+      "order_date": "2025-03-20",
+      "units": 706,
+      "ad_units": 240,
+      "revenue": 40698.4,
+      "margin": 19251.8,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-03-21",
+      "units": 773,
+      "ad_units": 171,
+      "revenue": 44571.3,
+      "margin": 21189.14,
+      "returns": 24
+    },
+    {
+      "order_date": "2025-03-22",
+      "units": 522,
+      "ad_units": 236,
+      "revenue": 30461.25,
+      "margin": 14860.32,
+      "returns": 8
+    },
+    {
+      "order_date": "2025-03-23",
+      "units": 330,
+      "ad_units": 93,
+      "revenue": 20445.2,
+      "margin": 9398.35,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-03-24",
+      "units": 515,
+      "ad_units": 121,
+      "revenue": 30492.8,
+      "margin": 14309.34,
+      "returns": 12
+    },
+    {
+      "order_date": "2025-03-25",
+      "units": 371,
+      "ad_units": 109,
+      "revenue": 20409.75,
+      "margin": 10129.22,
+      "returns": 5
+    },
+    {
+      "order_date": "2025-03-26",
+      "units": 216,
+      "ad_units": 86,
+      "revenue": 12832.35,
+      "margin": 6175.48,
+      "returns": 1
+    },
+    {
+      "order_date": "2025-03-27",
+      "units": 260,
+      "ad_units": 106,
+      "revenue": 13986.9,
+      "margin": 6770.2699999999995,
+      "returns": 4
+    },
+    {
+      "order_date": "2025-03-28",
+      "units": 1146,
+      "ad_units": 427,
+      "revenue": 66828.3,
+      "margin": 31282.920000000002,
+      "returns": 29
+    },
+    {
+      "order_date": "2025-03-29",
+      "units": 468,
+      "ad_units": 205,
+      "revenue": 27187.8,
+      "margin": 12628.85,
+      "returns": 14
+    },
+    {
+      "order_date": "2025-03-30",
+      "units": 302,
+      "ad_units": 68,
+      "revenue": 17447.6,
+      "margin": 8378.23,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-03-31",
+      "units": 644,
+      "ad_units": 295,
+      "revenue": 34940.05,
+      "margin": 16779.25,
+      "returns": 15
+    },
+    {
+      "order_date": "2025-04-01",
+      "units": 459,
+      "ad_units": 87,
+      "revenue": 29154.4,
+      "margin": 13982.66,
+      "returns": 8
+    },
+    {
+      "order_date": "2025-04-02",
+      "units": 447,
+      "ad_units": 110,
+      "revenue": 22239.5,
+      "margin": 10778.85,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-04-03",
+      "units": 288,
+      "ad_units": 87,
+      "revenue": 15991.6,
+      "margin": 7115.15,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-04-04",
+      "units": 378,
+      "ad_units": 144,
+      "revenue": 23441.5,
+      "margin": 11395.29,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-04-05",
+      "units": 184,
+      "ad_units": 86,
+      "revenue": 10907.3,
+      "margin": 5386.05,
+      "returns": 2
+    },
+    {
+      "order_date": "2025-04-06",
+      "units": 127,
+      "ad_units": 61,
+      "revenue": 8606.75,
+      "margin": 3905.6,
+      "returns": 4
+    },
+    {
+      "order_date": "2025-04-07",
+      "units": 366,
+      "ad_units": 64,
+      "revenue": 20706.45,
+      "margin": 9757.22,
+      "returns": 12
+    },
+    {
+      "order_date": "2025-04-08",
+      "units": 366,
+      "ad_units": 119,
+      "revenue": 21250.35,
+      "margin": 10326.04,
+      "returns": 5
+    },
+    {
+      "order_date": "2025-04-09",
+      "units": 1125,
+      "ad_units": 335,
+      "revenue": 66955.35,
+      "margin": 32478.93,
+      "returns": 21
+    },
+    {
+      "order_date": "2025-04-10",
+      "units": 426,
+      "ad_units": 120,
+      "revenue": 23730.8,
+      "margin": 11433.42,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-04-11",
+      "units": 753,
+      "ad_units": 167,
+      "revenue": 41965.5,
+      "margin": 19502.99,
+      "returns": 14
+    },
+    {
+      "order_date": "2025-04-12",
+      "units": 566,
+      "ad_units": 183,
+      "revenue": 30728.25,
+      "margin": 14368.58,
+      "returns": 18
+    },
+    {
+      "order_date": "2025-04-13",
+      "units": 329,
+      "ad_units": 105,
+      "revenue": 18680.45,
+      "margin": 8826.289999999999,
+      "returns": 6
+    },
+    {
+      "order_date": "2025-04-14",
+      "units": 679,
+      "ad_units": 347,
+      "revenue": 39787.75,
+      "margin": 18768.99,
+      "returns": 18
+    },
+    {
+      "order_date": "2025-04-15",
+      "units": 337,
+      "ad_units": 114,
+      "revenue": 19111.6,
+      "margin": 9167.2,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-04-16",
+      "units": 656,
+      "ad_units": 122,
+      "revenue": 40899.45,
+      "margin": 19594.62,
+      "returns": 16
+    },
+    {
+      "order_date": "2025-04-17",
+      "units": 406,
+      "ad_units": 102,
+      "revenue": 26816.75,
+      "margin": 12782.74,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-04-18",
+      "units": 221,
+      "ad_units": 106,
+      "revenue": 12080.75,
+      "margin": 5275.34,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-04-19",
+      "units": 562,
+      "ad_units": 202,
+      "revenue": 33923.85,
+      "margin": 16276.26,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-04-20",
+      "units": 492,
+      "ad_units": 146,
+      "revenue": 29195.8,
+      "margin": 13479.34,
+      "returns": 12
+    },
+    {
+      "order_date": "2025-04-21",
+      "units": 570,
+      "ad_units": 255,
+      "revenue": 32005.0,
+      "margin": 15160.01,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-04-22",
+      "units": 319,
+      "ad_units": 156,
+      "revenue": 20260.9,
+      "margin": 10069.289999999999,
+      "returns": 8
+    },
+    {
+      "order_date": "2025-04-23",
+      "units": 387,
+      "ad_units": 152,
+      "revenue": 22830.65,
+      "margin": 10528.9,
+      "returns": 4
+    },
+    {
+      "order_date": "2025-04-24",
+      "units": 464,
+      "ad_units": 165,
+      "revenue": 26024.15,
+      "margin": 12168.539999999999,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-04-25",
+      "units": 1102,
+      "ad_units": 431,
+      "revenue": 66730.45,
+      "margin": 31340.239999999998,
+      "returns": 30
+    },
+    {
+      "order_date": "2025-04-26",
+      "units": 614,
+      "ad_units": 197,
+      "revenue": 32967.0,
+      "margin": 15868.08,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-04-27",
+      "units": 265,
+      "ad_units": 73,
+      "revenue": 14952.6,
+      "margin": 6650.61,
+      "returns": 8
+    },
+    {
+      "order_date": "2025-04-28",
+      "units": 437,
+      "ad_units": 90,
+      "revenue": 24981.7,
+      "margin": 11446.49,
+      "returns": 8
+    },
+    {
+      "order_date": "2025-04-29",
+      "units": 646,
+      "ad_units": 202,
+      "revenue": 38951.35,
+      "margin": 19008.52,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-04-30",
+      "units": 505,
+      "ad_units": 146,
+      "revenue": 31436.5,
+      "margin": 14883.55,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-05-01",
+      "units": 1035,
+      "ad_units": 189,
+      "revenue": 59220.4,
+      "margin": 27673.02,
+      "returns": 30
+    },
+    {
+      "order_date": "2025-05-02",
+      "units": 378,
+      "ad_units": 88,
+      "revenue": 22082.15,
+      "margin": 10489.289999999999,
+      "returns": 8
+    },
+    {
+      "order_date": "2025-05-03",
+      "units": 538,
+      "ad_units": 196,
+      "revenue": 30863.5,
+      "margin": 14626.45,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-05-04",
+      "units": 693,
+      "ad_units": 170,
+      "revenue": 40846.1,
+      "margin": 19447.51,
+      "returns": 14
+    },
+    {
+      "order_date": "2025-05-05",
+      "units": 268,
+      "ad_units": 105,
+      "revenue": 17021.2,
+      "margin": 8266.98,
+      "returns": 5
+    },
+    {
+      "order_date": "2025-05-06",
+      "units": 440,
+      "ad_units": 203,
+      "revenue": 26253.75,
+      "margin": 12750.35,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-05-07",
+      "units": 479,
+      "ad_units": 83,
+      "revenue": 31374.5,
+      "margin": 15183.56,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-05-08",
+      "units": 369,
+      "ad_units": 177,
+      "revenue": 22435.2,
+      "margin": 10399.51,
+      "returns": 13
+    },
+    {
+      "order_date": "2025-05-09",
+      "units": 267,
+      "ad_units": 128,
+      "revenue": 16224.4,
+      "margin": 7546.61,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-05-10",
+      "units": 1012,
+      "ad_units": 165,
+      "revenue": 55770.8,
+      "margin": 26870.79,
+      "returns": 18
+    },
+    {
+      "order_date": "2025-05-11",
+      "units": 712,
+      "ad_units": 212,
+      "revenue": 37350.65,
+      "margin": 17825.71,
+      "returns": 12
+    },
+    {
+      "order_date": "2025-05-12",
+      "units": 713,
+      "ad_units": 374,
+      "revenue": 38517.05,
+      "margin": 18216.76,
+      "returns": 17
+    },
+    {
+      "order_date": "2025-05-13",
+      "units": 640,
+      "ad_units": 182,
+      "revenue": 36417.05,
+      "margin": 17293.49,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-05-14",
+      "units": 609,
+      "ad_units": 125,
+      "revenue": 35475.6,
+      "margin": 16943.079999999998,
+      "returns": 15
+    },
+    {
+      "order_date": "2025-05-15",
+      "units": 442,
+      "ad_units": 164,
+      "revenue": 26059.0,
+      "margin": 12513.11,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-05-16",
+      "units": 595,
+      "ad_units": 164,
+      "revenue": 34375.7,
+      "margin": 16140.92,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-05-17",
+      "units": 282,
+      "ad_units": 142,
+      "revenue": 17982.2,
+      "margin": 8612.39,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-05-18",
+      "units": 190,
+      "ad_units": 105,
+      "revenue": 9249.45,
+      "margin": 4557.04,
+      "returns": 6
+    },
+    {
+      "order_date": "2025-05-19",
+      "units": 530,
+      "ad_units": 123,
+      "revenue": 30782.8,
+      "margin": 13790.72,
+      "returns": 17
+    },
+    {
+      "order_date": "2025-05-20",
+      "units": 337,
+      "ad_units": 143,
+      "revenue": 22175.25,
+      "margin": 10699.1,
+      "returns": 1
+    },
+    {
+      "order_date": "2025-05-21",
+      "units": 488,
+      "ad_units": 172,
+      "revenue": 28745.1,
+      "margin": 13728.73,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-05-22",
+      "units": 732,
+      "ad_units": 326,
+      "revenue": 42123.25,
+      "margin": 19870.82,
+      "returns": 19
+    },
+    {
+      "order_date": "2025-05-23",
+      "units": 285,
+      "ad_units": 74,
+      "revenue": 19793.6,
+      "margin": 9485.3,
+      "returns": 6
+    },
+    {
+      "order_date": "2025-05-24",
+      "units": 707,
+      "ad_units": 121,
+      "revenue": 44354.65,
+      "margin": 21393.82,
+      "returns": 6
+    },
+    {
+      "order_date": "2025-05-25",
+      "units": 457,
+      "ad_units": 112,
+      "revenue": 29054.65,
+      "margin": 14144.57,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-05-26",
+      "units": 260,
+      "ad_units": 69,
+      "revenue": 16558.95,
+      "margin": 7860.64,
+      "returns": 5
+    },
+    {
+      "order_date": "2025-05-27",
+      "units": 451,
+      "ad_units": 91,
+      "revenue": 24751.9,
+      "margin": 11896.93,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-05-28",
+      "units": 279,
+      "ad_units": 141,
+      "revenue": 17022.45,
+      "margin": 8144.88,
+      "returns": 3
+    },
+    {
+      "order_date": "2025-05-29",
+      "units": 381,
+      "ad_units": 81,
+      "revenue": 25009.5,
+      "margin": 11868.24,
+      "returns": 8
+    },
+    {
+      "order_date": "2025-05-30",
+      "units": 511,
+      "ad_units": 100,
+      "revenue": 30063.25,
+      "margin": 14068.74,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-05-31",
+      "units": 681,
+      "ad_units": 134,
+      "revenue": 43334.4,
+      "margin": 20687.05,
+      "returns": 18
+    },
+    {
+      "order_date": "2025-06-01",
+      "units": 806,
+      "ad_units": 116,
+      "revenue": 46544.95,
+      "margin": 22066.51,
+      "returns": 13
+    },
+    {
+      "order_date": "2025-06-02",
+      "units": 458,
+      "ad_units": 216,
+      "revenue": 27681.95,
+      "margin": 13171.75,
+      "returns": 12
+    },
+    {
+      "order_date": "2025-06-03",
+      "units": 263,
+      "ad_units": 101,
+      "revenue": 15895.35,
+      "margin": 7555.97,
+      "returns": 8
+    },
+    {
+      "order_date": "2025-06-04",
+      "units": 950,
+      "ad_units": 404,
+      "revenue": 52284.7,
+      "margin": 24596.22,
+      "returns": 23
+    },
+    {
+      "order_date": "2025-06-05",
+      "units": 565,
+      "ad_units": 157,
+      "revenue": 30845.05,
+      "margin": 14892.24,
+      "returns": 17
+    },
+    {
+      "order_date": "2025-06-06",
+      "units": 517,
+      "ad_units": 71,
+      "revenue": 31136.7,
+      "margin": 14499.39,
+      "returns": 17
+    },
+    {
+      "order_date": "2025-06-07",
+      "units": 483,
+      "ad_units": 196,
+      "revenue": 27489.3,
+      "margin": 13069.28,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-06-08",
+      "units": 643,
+      "ad_units": 225,
+      "revenue": 36443.75,
+      "margin": 17500.76,
+      "returns": 19
+    },
+    {
+      "order_date": "2025-06-09",
+      "units": 508,
+      "ad_units": 124,
+      "revenue": 32388.7,
+      "margin": 15598.6,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-06-10",
+      "units": 621,
+      "ad_units": 134,
+      "revenue": 36623.2,
+      "margin": 17070.24,
+      "returns": 18
+    },
+    {
+      "order_date": "2025-06-11",
+      "units": 432,
+      "ad_units": 187,
+      "revenue": 25728.5,
+      "margin": 11807.96,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-06-12",
+      "units": 680,
+      "ad_units": 267,
+      "revenue": 38918.8,
+      "margin": 18212.41,
+      "returns": 18
+    },
+    {
+      "order_date": "2025-06-13",
+      "units": 279,
+      "ad_units": 116,
+      "revenue": 18066.55,
+      "margin": 8818.74,
+      "returns": 6
+    },
+    {
+      "order_date": "2025-06-14",
+      "units": 841,
+      "ad_units": 193,
+      "revenue": 49601.4,
+      "margin": 23845.81,
+      "returns": 21
+    },
+    {
+      "order_date": "2025-06-15",
+      "units": 413,
+      "ad_units": 194,
+      "revenue": 22969.55,
+      "margin": 10970.59,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-06-16",
+      "units": 461,
+      "ad_units": 76,
+      "revenue": 27102.1,
+      "margin": 12768.81,
+      "returns": 6
+    },
+    {
+      "order_date": "2025-06-17",
+      "units": 442,
+      "ad_units": 160,
+      "revenue": 23661.1,
+      "margin": 11094.81,
+      "returns": 12
+    },
+    {
+      "order_date": "2025-06-18",
+      "units": 581,
+      "ad_units": 275,
+      "revenue": 33670.9,
+      "margin": 16355.7,
+      "returns": 14
+    },
+    {
+      "order_date": "2025-06-19",
+      "units": 526,
+      "ad_units": 222,
+      "revenue": 30064.95,
+      "margin": 14540.52,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-06-20",
+      "units": 871,
+      "ad_units": 160,
+      "revenue": 52486.55,
+      "margin": 25466.97,
+      "returns": 14
+    },
+    {
+      "order_date": "2025-06-21",
+      "units": 332,
+      "ad_units": 75,
+      "revenue": 21885.3,
+      "margin": 10516.21,
+      "returns": 6
+    },
+    {
+      "order_date": "2025-06-22",
+      "units": 548,
+      "ad_units": 151,
+      "revenue": 30166.5,
+      "margin": 14577.21,
+      "returns": 6
+    },
+    {
+      "order_date": "2025-06-23",
+      "units": 309,
+      "ad_units": 113,
+      "revenue": 17774.0,
+      "margin": 8468.88,
+      "returns": 3
+    },
+    {
+      "order_date": "2025-06-24",
+      "units": 187,
+      "ad_units": 100,
+      "revenue": 9912.1,
+      "margin": 4655.0,
+      "returns": 5
+    },
+    {
+      "order_date": "2025-06-25",
+      "units": 651,
+      "ad_units": 263,
+      "revenue": 38075.55,
+      "margin": 17823.62,
+      "returns": 19
+    },
+    {
+      "order_date": "2025-06-26",
+      "units": 382,
+      "ad_units": 120,
+      "revenue": 24099.3,
+      "margin": 11548.14,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-06-27",
+      "units": 938,
+      "ad_units": 297,
+      "revenue": 53245.3,
+      "margin": 25249.78,
+      "returns": 18
+    },
+    {
+      "order_date": "2025-06-28",
+      "units": 1210,
+      "ad_units": 341,
+      "revenue": 66838.05,
+      "margin": 31533.06,
+      "returns": 32
+    },
+    {
+      "order_date": "2025-06-29",
+      "units": 567,
+      "ad_units": 179,
+      "revenue": 29324.45,
+      "margin": 13846.0,
+      "returns": 13
+    },
+    {
+      "order_date": "2025-06-30",
+      "units": 274,
+      "ad_units": 127,
+      "revenue": 16801.2,
+      "margin": 8110.12,
+      "returns": 3
+    },
+    {
+      "order_date": "2025-07-01",
+      "units": 656,
+      "ad_units": 152,
+      "revenue": 39743.85,
+      "margin": 19188.25,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-07-02",
+      "units": 764,
+      "ad_units": 121,
+      "revenue": 50142.95,
+      "margin": 23434.83,
+      "returns": 17
+    },
+    {
+      "order_date": "2025-07-03",
+      "units": 635,
+      "ad_units": 288,
+      "revenue": 39130.15,
+      "margin": 18963.17,
+      "returns": 12
+    },
+    {
+      "order_date": "2025-07-04",
+      "units": 348,
+      "ad_units": 176,
+      "revenue": 21197.7,
+      "margin": 10260.82,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-07-05",
+      "units": 519,
+      "ad_units": 159,
+      "revenue": 28985.35,
+      "margin": 13822.38,
+      "returns": 15
+    },
+    {
+      "order_date": "2025-07-06",
+      "units": 241,
+      "ad_units": 72,
+      "revenue": 15661.9,
+      "margin": 7341.37,
+      "returns": 6
+    },
+    {
+      "order_date": "2025-07-07",
+      "units": 480,
+      "ad_units": 67,
+      "revenue": 33647.4,
+      "margin": 15975.7,
+      "returns": 13
+    },
+    {
+      "order_date": "2025-07-08",
+      "units": 358,
+      "ad_units": 147,
+      "revenue": 21845.75,
+      "margin": 10415.44,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-07-09",
+      "units": 838,
+      "ad_units": 213,
+      "revenue": 53316.15,
+      "margin": 24917.32,
+      "returns": 20
+    },
+    {
+      "order_date": "2025-07-10",
+      "units": 384,
+      "ad_units": 91,
+      "revenue": 21671.95,
+      "margin": 10340.23,
+      "returns": 6
+    },
+    {
+      "order_date": "2025-07-11",
+      "units": 509,
+      "ad_units": 182,
+      "revenue": 29246.5,
+      "margin": 14111.03,
+      "returns": 15
+    },
+    {
+      "order_date": "2025-07-12",
+      "units": 414,
+      "ad_units": 169,
+      "revenue": 23218.65,
+      "margin": 11085.89,
+      "returns": 5
+    },
+    {
+      "order_date": "2025-07-13",
+      "units": 492,
+      "ad_units": 70,
+      "revenue": 32530.35,
+      "margin": 15781.289999999999,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-07-14",
+      "units": 232,
+      "ad_units": 57,
+      "revenue": 13476.85,
+      "margin": 6579.96,
+      "returns": 2
+    },
+    {
+      "order_date": "2025-07-15",
+      "units": 592,
+      "ad_units": 110,
+      "revenue": 37438.75,
+      "margin": 18112.75,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-07-16",
+      "units": 829,
+      "ad_units": 187,
+      "revenue": 46307.35,
+      "margin": 21683.38,
+      "returns": 27
+    },
+    {
+      "order_date": "2025-07-17",
+      "units": 588,
+      "ad_units": 226,
+      "revenue": 33728.15,
+      "margin": 16402.87,
+      "returns": 12
+    },
+    {
+      "order_date": "2025-07-18",
+      "units": 560,
+      "ad_units": 98,
+      "revenue": 32767.65,
+      "margin": 15968.72,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-07-19",
+      "units": 893,
+      "ad_units": 216,
+      "revenue": 53604.5,
+      "margin": 25595.27,
+      "returns": 18
+    },
+    {
+      "order_date": "2025-07-20",
+      "units": 552,
+      "ad_units": 138,
+      "revenue": 32619.6,
+      "margin": 15575.73,
+      "returns": 6
+    },
+    {
+      "order_date": "2025-07-21",
+      "units": 737,
+      "ad_units": 185,
+      "revenue": 41507.55,
+      "margin": 19715.579999999998,
+      "returns": 21
+    },
+    {
+      "order_date": "2025-07-22",
+      "units": 545,
+      "ad_units": 205,
+      "revenue": 31281.7,
+      "margin": 15219.92,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-07-23",
+      "units": 514,
+      "ad_units": 197,
+      "revenue": 28208.05,
+      "margin": 13640.08,
+      "returns": 5
+    },
+    {
+      "order_date": "2025-07-24",
+      "units": 630,
+      "ad_units": 227,
+      "revenue": 37258.2,
+      "margin": 17716.12,
+      "returns": 13
+    },
+    {
+      "order_date": "2025-07-25",
+      "units": 252,
+      "ad_units": 75,
+      "revenue": 17719.65,
+      "margin": 8415.33,
+      "returns": 5
+    },
+    {
+      "order_date": "2025-07-26",
+      "units": 562,
+      "ad_units": 197,
+      "revenue": 33293.95,
+      "margin": 15740.08,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-07-27",
+      "units": 271,
+      "ad_units": 102,
+      "revenue": 16147.45,
+      "margin": 7743.51,
+      "returns": 5
+    },
+    {
+      "order_date": "2025-07-28",
+      "units": 489,
+      "ad_units": 92,
+      "revenue": 27350.85,
+      "margin": 13001.99,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-07-29",
+      "units": 701,
+      "ad_units": 158,
+      "revenue": 38088.35,
+      "margin": 17716.61,
+      "returns": 21
+    },
+    {
+      "order_date": "2025-07-30",
+      "units": 435,
+      "ad_units": 93,
+      "revenue": 25147.1,
+      "margin": 12274.96,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-07-31",
+      "units": 968,
+      "ad_units": 137,
+      "revenue": 58219.15,
+      "margin": 27835.37,
+      "returns": 20
+    },
+    {
+      "order_date": "2025-08-01",
+      "units": 553,
+      "ad_units": 81,
+      "revenue": 32216.05,
+      "margin": 15392.15,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-08-02",
+      "units": 246,
+      "ad_units": 119,
+      "revenue": 16328.15,
+      "margin": 7349.28,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-08-03",
+      "units": 738,
+      "ad_units": 190,
+      "revenue": 43348.85,
+      "margin": 20478.36,
+      "returns": 20
+    },
+    {
+      "order_date": "2025-08-04",
+      "units": 327,
+      "ad_units": 163,
+      "revenue": 18974.6,
+      "margin": 8967.02,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-08-05",
+      "units": 300,
+      "ad_units": 141,
+      "revenue": 18072.0,
+      "margin": 8671.12,
+      "returns": 5
+    },
+    {
+      "order_date": "2025-08-06",
+      "units": 212,
+      "ad_units": 81,
+      "revenue": 12594.7,
+      "margin": 6026.95,
+      "returns": 5
+    },
+    {
+      "order_date": "2025-08-07",
+      "units": 235,
+      "ad_units": 115,
+      "revenue": 11723.65,
+      "margin": 5594.6,
+      "returns": 6
+    },
+    {
+      "order_date": "2025-08-08",
+      "units": 609,
+      "ad_units": 178,
+      "revenue": 35415.95,
+      "margin": 16880.63,
+      "returns": 17
+    },
+    {
+      "order_date": "2025-08-09",
+      "units": 536,
+      "ad_units": 248,
+      "revenue": 30804.0,
+      "margin": 14667.9,
+      "returns": 14
+    },
+    {
+      "order_date": "2025-08-10",
+      "units": 479,
+      "ad_units": 134,
+      "revenue": 28055.85,
+      "margin": 13717.92,
+      "returns": 5
+    },
+    {
+      "order_date": "2025-08-11",
+      "units": 456,
+      "ad_units": 169,
+      "revenue": 26250.15,
+      "margin": 12738.78,
+      "returns": 4
+    },
+    {
+      "order_date": "2025-08-12",
+      "units": 493,
+      "ad_units": 177,
+      "revenue": 26179.7,
+      "margin": 11611.3,
+      "returns": 20
+    },
+    {
+      "order_date": "2025-08-13",
+      "units": 533,
+      "ad_units": 132,
+      "revenue": 32327.3,
+      "margin": 15241.8,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-08-14",
+      "units": 645,
+      "ad_units": 206,
+      "revenue": 37417.05,
+      "margin": 17731.0,
+      "returns": 16
+    },
+    {
+      "order_date": "2025-08-15",
+      "units": 306,
+      "ad_units": 108,
+      "revenue": 17060.8,
+      "margin": 8075.31,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-08-16",
+      "units": 711,
+      "ad_units": 313,
+      "revenue": 44750.0,
+      "margin": 21256.579999999998,
+      "returns": 18
+    },
+    {
+      "order_date": "2025-08-17",
+      "units": 797,
+      "ad_units": 243,
+      "revenue": 45379.9,
+      "margin": 20708.52,
+      "returns": 27
+    },
+    {
+      "order_date": "2025-08-18",
+      "units": 315,
+      "ad_units": 125,
+      "revenue": 19894.8,
+      "margin": 9628.84,
+      "returns": 6
+    },
+    {
+      "order_date": "2025-08-19",
+      "units": 553,
+      "ad_units": 71,
+      "revenue": 33295.0,
+      "margin": 15788.78,
+      "returns": 15
+    },
+    {
+      "order_date": "2025-08-20",
+      "units": 355,
+      "ad_units": 138,
+      "revenue": 21143.1,
+      "margin": 9493.75,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-08-21",
+      "units": 587,
+      "ad_units": 91,
+      "revenue": 35908.1,
+      "margin": 17024.63,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-08-22",
+      "units": 463,
+      "ad_units": 243,
+      "revenue": 26221.3,
+      "margin": 12259.01,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-08-23",
+      "units": 432,
+      "ad_units": 184,
+      "revenue": 23563.65,
+      "margin": 11221.11,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-08-24",
+      "units": 362,
+      "ad_units": 73,
+      "revenue": 19938.2,
+      "margin": 9701.5,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-08-25",
+      "units": 570,
+      "ad_units": 136,
+      "revenue": 36337.9,
+      "margin": 18183.79,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-08-26",
+      "units": 668,
+      "ad_units": 244,
+      "revenue": 40665.1,
+      "margin": 19012.16,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-08-27",
+      "units": 424,
+      "ad_units": 190,
+      "revenue": 21377.95,
+      "margin": 9981.61,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-08-28",
+      "units": 1001,
+      "ad_units": 369,
+      "revenue": 63546.85,
+      "margin": 30458.19,
+      "returns": 26
+    },
+    {
+      "order_date": "2025-08-29",
+      "units": 1074,
+      "ad_units": 298,
+      "revenue": 63695.3,
+      "margin": 30454.16,
+      "returns": 21
+    },
+    {
+      "order_date": "2025-08-30",
+      "units": 355,
+      "ad_units": 139,
+      "revenue": 21821.05,
+      "margin": 10512.59,
+      "returns": 6
+    },
+    {
+      "order_date": "2025-08-31",
+      "units": 691,
+      "ad_units": 267,
+      "revenue": 42415.55,
+      "margin": 20686.65,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-09-01",
+      "units": 407,
+      "ad_units": 121,
+      "revenue": 23540.3,
+      "margin": 11268.01,
+      "returns": 8
+    },
+    {
+      "order_date": "2025-09-02",
+      "units": 292,
+      "ad_units": 117,
+      "revenue": 15166.5,
+      "margin": 7102.07,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-09-03",
+      "units": 405,
+      "ad_units": 120,
+      "revenue": 23269.75,
+      "margin": 11039.15,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-09-04",
+      "units": 442,
+      "ad_units": 168,
+      "revenue": 24710.25,
+      "margin": 11849.99,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-09-05",
+      "units": 583,
+      "ad_units": 218,
+      "revenue": 35450.5,
+      "margin": 16554.41,
+      "returns": 12
+    },
+    {
+      "order_date": "2025-09-06",
+      "units": 288,
+      "ad_units": 46,
+      "revenue": 16915.9,
+      "margin": 8155.84,
+      "returns": 3
+    },
+    {
+      "order_date": "2025-09-07",
+      "units": 516,
+      "ad_units": 205,
+      "revenue": 31666.95,
+      "margin": 15243.71,
+      "returns": 14
+    },
+    {
+      "order_date": "2025-09-08",
+      "units": 632,
+      "ad_units": 108,
+      "revenue": 33701.15,
+      "margin": 15932.789999999999,
+      "returns": 15
+    },
+    {
+      "order_date": "2025-09-09",
+      "units": 888,
+      "ad_units": 149,
+      "revenue": 54372.2,
+      "margin": 26331.93,
+      "returns": 17
+    },
+    {
+      "order_date": "2025-09-10",
+      "units": 619,
+      "ad_units": 119,
+      "revenue": 33671.45,
+      "margin": 16192.01,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-09-11",
+      "units": 745,
+      "ad_units": 106,
+      "revenue": 40562.35,
+      "margin": 19675.17,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-09-12",
+      "units": 625,
+      "ad_units": 210,
+      "revenue": 35631.25,
+      "margin": 17112.78,
+      "returns": 20
+    },
+    {
+      "order_date": "2025-09-13",
+      "units": 363,
+      "ad_units": 112,
+      "revenue": 18638.8,
+      "margin": 9059.8,
+      "returns": 5
+    },
+    {
+      "order_date": "2025-09-14",
+      "units": 467,
+      "ad_units": 199,
+      "revenue": 24859.3,
+      "margin": 11935.5,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-09-15",
+      "units": 870,
+      "ad_units": 112,
+      "revenue": 50640.6,
+      "margin": 24261.51,
+      "returns": 19
+    },
+    {
+      "order_date": "2025-09-16",
+      "units": 313,
+      "ad_units": 60,
+      "revenue": 18159.75,
+      "margin": 8333.65,
+      "returns": 6
+    },
+    {
+      "order_date": "2025-09-17",
+      "units": 532,
+      "ad_units": 175,
+      "revenue": 31821.65,
+      "margin": 14901.15,
+      "returns": 14
+    },
+    {
+      "order_date": "2025-09-18",
+      "units": 642,
+      "ad_units": 329,
+      "revenue": 37657.85,
+      "margin": 17535.68,
+      "returns": 22
+    },
+    {
+      "order_date": "2025-09-19",
+      "units": 1548,
+      "ad_units": 342,
+      "revenue": 86452.35,
+      "margin": 40986.17,
+      "returns": 37
+    },
+    {
+      "order_date": "2025-09-20",
+      "units": 581,
+      "ad_units": 147,
+      "revenue": 33857.9,
+      "margin": 16292.09,
+      "returns": 14
+    },
+    {
+      "order_date": "2025-09-21",
+      "units": 1278,
+      "ad_units": 309,
+      "revenue": 74233.4,
+      "margin": 35825.1,
+      "returns": 27
+    },
+    {
+      "order_date": "2025-09-22",
+      "units": 393,
+      "ad_units": 115,
+      "revenue": 24299.45,
+      "margin": 11459.0,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-09-23",
+      "units": 917,
+      "ad_units": 435,
+      "revenue": 54362.45,
+      "margin": 25528.92,
+      "returns": 25
+    },
+    {
+      "order_date": "2025-09-24",
+      "units": 829,
+      "ad_units": 381,
+      "revenue": 49551.85,
+      "margin": 23043.06,
+      "returns": 15
+    },
+    {
+      "order_date": "2025-09-25",
+      "units": 582,
+      "ad_units": 137,
+      "revenue": 33725.55,
+      "margin": 16344.69,
+      "returns": 12
+    },
+    {
+      "order_date": "2025-09-26",
+      "units": 494,
+      "ad_units": 212,
+      "revenue": 28937.75,
+      "margin": 13879.89,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-09-27",
+      "units": 373,
+      "ad_units": 141,
+      "revenue": 21781.0,
+      "margin": 10541.32,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-09-28",
+      "units": 370,
+      "ad_units": 102,
+      "revenue": 19820.7,
+      "margin": 9659.77,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-09-29",
+      "units": 804,
+      "ad_units": 167,
+      "revenue": 45333.75,
+      "margin": 21755.79,
+      "returns": 16
+    },
+    {
+      "order_date": "2025-09-30",
+      "units": 629,
+      "ad_units": 260,
+      "revenue": 38823.25,
+      "margin": 18951.41,
+      "returns": 8
+    },
+    {
+      "order_date": "2025-10-01",
+      "units": 858,
+      "ad_units": 301,
+      "revenue": 50946.75,
+      "margin": 24490.73,
+      "returns": 18
+    },
+    {
+      "order_date": "2025-10-02",
+      "units": 863,
+      "ad_units": 335,
+      "revenue": 50905.8,
+      "margin": 24277.37,
+      "returns": 22
+    },
+    {
+      "order_date": "2025-10-03",
+      "units": 505,
+      "ad_units": 89,
+      "revenue": 28897.9,
+      "margin": 13785.59,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-10-04",
+      "units": 456,
+      "ad_units": 87,
+      "revenue": 26410.75,
+      "margin": 12648.27,
+      "returns": 6
+    },
+    {
+      "order_date": "2025-10-05",
+      "units": 385,
+      "ad_units": 159,
+      "revenue": 23178.1,
+      "margin": 10791.69,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-10-06",
+      "units": 609,
+      "ad_units": 260,
+      "revenue": 36789.1,
+      "margin": 17656.0,
+      "returns": 12
+    },
+    {
+      "order_date": "2025-10-07",
+      "units": 176,
+      "ad_units": 84,
+      "revenue": 11815.0,
+      "margin": 5835.09,
+      "returns": 0
+    },
+    {
+      "order_date": "2025-10-08",
+      "units": 490,
+      "ad_units": 133,
+      "revenue": 32718.05,
+      "margin": 15810.35,
+      "returns": 4
+    },
+    {
+      "order_date": "2025-10-09",
+      "units": 908,
+      "ad_units": 254,
+      "revenue": 53529.2,
+      "margin": 25571.55,
+      "returns": 13
+    },
+    {
+      "order_date": "2025-10-10",
+      "units": 507,
+      "ad_units": 181,
+      "revenue": 30135.2,
+      "margin": 14572.44,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-10-11",
+      "units": 780,
+      "ad_units": 318,
+      "revenue": 43895.9,
+      "margin": 21150.03,
+      "returns": 16
+    },
+    {
+      "order_date": "2025-10-12",
+      "units": 643,
+      "ad_units": 298,
+      "revenue": 35853.9,
+      "margin": 17147.87,
+      "returns": 20
+    },
+    {
+      "order_date": "2025-10-13",
+      "units": 730,
+      "ad_units": 141,
+      "revenue": 41519.9,
+      "margin": 19423.71,
+      "returns": 19
+    },
+    {
+      "order_date": "2025-10-14",
+      "units": 605,
+      "ad_units": 230,
+      "revenue": 35440.05,
+      "margin": 16917.12,
+      "returns": 8
+    },
+    {
+      "order_date": "2025-10-15",
+      "units": 784,
+      "ad_units": 328,
+      "revenue": 48713.35,
+      "margin": 23186.4,
+      "returns": 13
+    },
+    {
+      "order_date": "2025-10-16",
+      "units": 370,
+      "ad_units": 154,
+      "revenue": 20877.35,
+      "margin": 10201.33,
+      "returns": 5
+    },
+    {
+      "order_date": "2025-10-17",
+      "units": 725,
+      "ad_units": 129,
+      "revenue": 41969.15,
+      "margin": 19720.17,
+      "returns": 18
+    },
+    {
+      "order_date": "2025-10-18",
+      "units": 325,
+      "ad_units": 106,
+      "revenue": 17899.3,
+      "margin": 8512.68,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-10-19",
+      "units": 347,
+      "ad_units": 129,
+      "revenue": 21226.8,
+      "margin": 10137.57,
+      "returns": 6
+    },
+    {
+      "order_date": "2025-10-20",
+      "units": 834,
+      "ad_units": 292,
+      "revenue": 50546.9,
+      "margin": 24043.53,
+      "returns": 22
+    },
+    {
+      "order_date": "2025-10-21",
+      "units": 612,
+      "ad_units": 98,
+      "revenue": 33229.0,
+      "margin": 15746.4,
+      "returns": 12
+    },
+    {
+      "order_date": "2025-10-22",
+      "units": 344,
+      "ad_units": 157,
+      "revenue": 19565.95,
+      "margin": 9748.82,
+      "returns": 5
+    },
+    {
+      "order_date": "2025-10-23",
+      "units": 425,
+      "ad_units": 189,
+      "revenue": 24721.85,
+      "margin": 11863.7,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-10-24",
+      "units": 489,
+      "ad_units": 162,
+      "revenue": 29797.0,
+      "margin": 13871.15,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-10-25",
+      "units": 657,
+      "ad_units": 307,
+      "revenue": 40419.95,
+      "margin": 19559.66,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-10-26",
+      "units": 489,
+      "ad_units": 95,
+      "revenue": 29158.05,
+      "margin": 13865.91,
+      "returns": 14
+    },
+    {
+      "order_date": "2025-10-27",
+      "units": 194,
+      "ad_units": 88,
+      "revenue": 12145.9,
+      "margin": 5584.3,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-10-28",
+      "units": 307,
+      "ad_units": 142,
+      "revenue": 19025.75,
+      "margin": 9336.16,
+      "returns": 6
+    },
+    {
+      "order_date": "2025-10-29",
+      "units": 291,
+      "ad_units": 136,
+      "revenue": 17487.25,
+      "margin": 8516.99,
+      "returns": 8
+    },
+    {
+      "order_date": "2025-10-30",
+      "units": 1558,
+      "ad_units": 386,
+      "revenue": 87682.4,
+      "margin": 41485.57,
+      "returns": 39
+    },
+    {
+      "order_date": "2025-10-31",
+      "units": 448,
+      "ad_units": 107,
+      "revenue": 26359.6,
+      "margin": 12498.95,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-11-01",
+      "units": 607,
+      "ad_units": 288,
+      "revenue": 33183.5,
+      "margin": 16324.06,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-11-02",
+      "units": 1045,
+      "ad_units": 242,
+      "revenue": 62915.7,
+      "margin": 29872.35,
+      "returns": 18
+    },
+    {
+      "order_date": "2025-11-03",
+      "units": 666,
+      "ad_units": 243,
+      "revenue": 39450.25,
+      "margin": 19024.03,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-11-04",
+      "units": 576,
+      "ad_units": 205,
+      "revenue": 31788.55,
+      "margin": 14959.45,
+      "returns": 15
+    },
+    {
+      "order_date": "2025-11-05",
+      "units": 874,
+      "ad_units": 134,
+      "revenue": 51127.65,
+      "margin": 23862.57,
+      "returns": 14
+    },
+    {
+      "order_date": "2025-11-06",
+      "units": 575,
+      "ad_units": 176,
+      "revenue": 32142.05,
+      "margin": 15567.96,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-11-07",
+      "units": 202,
+      "ad_units": 77,
+      "revenue": 11526.1,
+      "margin": 5673.57,
+      "returns": 1
+    },
+    {
+      "order_date": "2025-11-08",
+      "units": 557,
+      "ad_units": 93,
+      "revenue": 32958.6,
+      "margin": 15731.32,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-11-09",
+      "units": 470,
+      "ad_units": 108,
+      "revenue": 26120.7,
+      "margin": 12536.57,
+      "returns": 12
+    },
+    {
+      "order_date": "2025-11-10",
+      "units": 545,
+      "ad_units": 176,
+      "revenue": 30350.5,
+      "margin": 14121.79,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-11-11",
+      "units": 449,
+      "ad_units": 154,
+      "revenue": 27416.65,
+      "margin": 12949.27,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-11-12",
+      "units": 301,
+      "ad_units": 135,
+      "revenue": 19649.45,
+      "margin": 9209.15,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-11-13",
+      "units": 262,
+      "ad_units": 108,
+      "revenue": 15949.65,
+      "margin": 7393.62,
+      "returns": 4
+    },
+    {
+      "order_date": "2025-11-14",
+      "units": 1043,
+      "ad_units": 214,
+      "revenue": 60758.5,
+      "margin": 28746.13,
+      "returns": 19
+    },
+    {
+      "order_date": "2025-11-15",
+      "units": 504,
+      "ad_units": 183,
+      "revenue": 28576.1,
+      "margin": 13630.24,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-11-16",
+      "units": 867,
+      "ad_units": 164,
+      "revenue": 50958.05,
+      "margin": 24163.89,
+      "returns": 23
+    },
+    {
+      "order_date": "2025-11-17",
+      "units": 455,
+      "ad_units": 66,
+      "revenue": 27132.7,
+      "margin": 12898.79,
+      "returns": 13
+    },
+    {
+      "order_date": "2025-11-18",
+      "units": 906,
+      "ad_units": 201,
+      "revenue": 55203.45,
+      "margin": 26450.739999999998,
+      "returns": 14
+    },
+    {
+      "order_date": "2025-11-19",
+      "units": 401,
+      "ad_units": 66,
+      "revenue": 21195.05,
+      "margin": 10036.49,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-11-20",
+      "units": 432,
+      "ad_units": 72,
+      "revenue": 24832.65,
+      "margin": 11929.56,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-11-21",
+      "units": 381,
+      "ad_units": 139,
+      "revenue": 22476.1,
+      "margin": 10819.24,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-11-22",
+      "units": 447,
+      "ad_units": 216,
+      "revenue": 25052.7,
+      "margin": 11883.58,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-11-23",
+      "units": 258,
+      "ad_units": 123,
+      "revenue": 14075.65,
+      "margin": 6519.0,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-11-24",
+      "units": 876,
+      "ad_units": 278,
+      "revenue": 53722.45,
+      "margin": 25450.85,
+      "returns": 21
+    },
+    {
+      "order_date": "2025-11-25",
+      "units": 329,
+      "ad_units": 126,
+      "revenue": 20807.5,
+      "margin": 9988.77,
+      "returns": 5
+    },
+    {
+      "order_date": "2025-11-26",
+      "units": 707,
+      "ad_units": 192,
+      "revenue": 41494.1,
+      "margin": 19045.73,
+      "returns": 22
+    },
+    {
+      "order_date": "2025-11-27",
+      "units": 1243,
+      "ad_units": 282,
+      "revenue": 71338.55,
+      "margin": 34181.01,
+      "returns": 27
+    },
+    {
+      "order_date": "2025-11-28",
+      "units": 385,
+      "ad_units": 82,
+      "revenue": 22623.25,
+      "margin": 10754.31,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-11-29",
+      "units": 400,
+      "ad_units": 154,
+      "revenue": 21694.15,
+      "margin": 10272.82,
+      "returns": 8
+    },
+    {
+      "order_date": "2025-11-30",
+      "units": 583,
+      "ad_units": 296,
+      "revenue": 32456.7,
+      "margin": 15547.12,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-12-01",
+      "units": 430,
+      "ad_units": 84,
+      "revenue": 23040.75,
+      "margin": 11109.19,
+      "returns": 13
+    },
+    {
+      "order_date": "2025-12-02",
+      "units": 421,
+      "ad_units": 160,
+      "revenue": 25130.95,
+      "margin": 11831.09,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-12-03",
+      "units": 675,
+      "ad_units": 105,
+      "revenue": 40424.75,
+      "margin": 19374.34,
+      "returns": 18
+    },
+    {
+      "order_date": "2025-12-04",
+      "units": 325,
+      "ad_units": 56,
+      "revenue": 18080.35,
+      "margin": 8527.87,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-12-05",
+      "units": 525,
+      "ad_units": 168,
+      "revenue": 31988.05,
+      "margin": 14862.86,
+      "returns": 14
+    },
+    {
+      "order_date": "2025-12-06",
+      "units": 267,
+      "ad_units": 54,
+      "revenue": 16943.85,
+      "margin": 8354.88,
+      "returns": 2
+    },
+    {
+      "order_date": "2025-12-07",
+      "units": 959,
+      "ad_units": 231,
+      "revenue": 57169.5,
+      "margin": 27260.55,
+      "returns": 16
+    },
+    {
+      "order_date": "2025-12-08",
+      "units": 434,
+      "ad_units": 139,
+      "revenue": 25129.85,
+      "margin": 12122.51,
+      "returns": 8
+    },
+    {
+      "order_date": "2025-12-09",
+      "units": 779,
+      "ad_units": 329,
+      "revenue": 43052.65,
+      "margin": 20170.55,
+      "returns": 28
+    },
+    {
+      "order_date": "2025-12-10",
+      "units": 549,
+      "ad_units": 227,
+      "revenue": 33295.35,
+      "margin": 15948.06,
+      "returns": 7
+    },
+    {
+      "order_date": "2025-12-11",
+      "units": 831,
+      "ad_units": 167,
+      "revenue": 48314.1,
+      "margin": 22640.55,
+      "returns": 19
+    },
+    {
+      "order_date": "2025-12-12",
+      "units": 354,
+      "ad_units": 154,
+      "revenue": 20236.1,
+      "margin": 9609.369999999999,
+      "returns": 10
+    },
+    {
+      "order_date": "2025-12-13",
+      "units": 384,
+      "ad_units": 186,
+      "revenue": 22931.5,
+      "margin": 10965.91,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-12-14",
+      "units": 908,
+      "ad_units": 180,
+      "revenue": 50298.6,
+      "margin": 23767.07,
+      "returns": 15
+    },
+    {
+      "order_date": "2025-12-15",
+      "units": 636,
+      "ad_units": 265,
+      "revenue": 36933.85,
+      "margin": 17898.05,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-12-16",
+      "units": 523,
+      "ad_units": 236,
+      "revenue": 33700.15,
+      "margin": 16425.829999999998,
+      "returns": 8
+    },
+    {
+      "order_date": "2025-12-17",
+      "units": 557,
+      "ad_units": 113,
+      "revenue": 31700.8,
+      "margin": 14940.47,
+      "returns": 8
+    },
+    {
+      "order_date": "2025-12-18",
+      "units": 742,
+      "ad_units": 260,
+      "revenue": 46034.1,
+      "margin": 21894.22,
+      "returns": 15
+    },
+    {
+      "order_date": "2025-12-19",
+      "units": 571,
+      "ad_units": 182,
+      "revenue": 35540.4,
+      "margin": 16437.26,
+      "returns": 14
+    },
+    {
+      "order_date": "2025-12-20",
+      "units": 802,
+      "ad_units": 262,
+      "revenue": 47118.65,
+      "margin": 22496.77,
+      "returns": 19
+    },
+    {
+      "order_date": "2025-12-21",
+      "units": 262,
+      "ad_units": 111,
+      "revenue": 17204.75,
+      "margin": 8432.02,
+      "returns": 3
+    },
+    {
+      "order_date": "2025-12-22",
+      "units": 852,
+      "ad_units": 167,
+      "revenue": 50091.15,
+      "margin": 23777.77,
+      "returns": 16
+    },
+    {
+      "order_date": "2025-12-23",
+      "units": 519,
+      "ad_units": 142,
+      "revenue": 29944.85,
+      "margin": 13845.69,
+      "returns": 14
+    },
+    {
+      "order_date": "2025-12-24",
+      "units": 571,
+      "ad_units": 158,
+      "revenue": 30726.5,
+      "margin": 14722.51,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-12-25",
+      "units": 768,
+      "ad_units": 103,
+      "revenue": 45343.6,
+      "margin": 22006.84,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-12-26",
+      "units": 450,
+      "ad_units": 207,
+      "revenue": 26698.15,
+      "margin": 12926.57,
+      "returns": 11
+    },
+    {
+      "order_date": "2025-12-27",
+      "units": 287,
+      "ad_units": 159,
+      "revenue": 15595.45,
+      "margin": 7398.65,
+      "returns": 5
+    },
+    {
+      "order_date": "2025-12-28",
+      "units": 351,
+      "ad_units": 135,
+      "revenue": 20793.1,
+      "margin": 9707.29,
+      "returns": 4
+    },
+    {
+      "order_date": "2025-12-29",
+      "units": 450,
+      "ad_units": 91,
+      "revenue": 27364.7,
+      "margin": 12888.05,
+      "returns": 8
+    },
+    {
+      "order_date": "2025-12-30",
+      "units": 412,
+      "ad_units": 129,
+      "revenue": 24175.85,
+      "margin": 11592.2,
+      "returns": 9
+    },
+    {
+      "order_date": "2025-12-31",
+      "units": 389,
+      "ad_units": 66,
+      "revenue": 21872.45,
+      "margin": 10370.71,
+      "returns": 9
+    }
+  ],
+  "byProduct": [
+    {
+      "product_id": "A200",
+      "product_name": "Athletic T-Shirt",
+      "category": "Apparel",
+      "units": 13731,
+      "revenue": 328756.25,
+      "margin": 170256.25,
+      "ad_units": 4198,
+      "ad_share": 0.306
+    },
+    {
+      "product_id": "A210",
+      "product_name": "Yoga Pants",
+      "category": "Apparel",
+      "units": 11166,
+      "revenue": 482269.5,
+      "margin": 245458.35,
+      "ad_units": 3419,
+      "ad_share": 0.306
+    },
+    {
+      "product_id": "A220",
+      "product_name": "Hoodie",
+      "category": "Apparel",
+      "units": 7580,
+      "revenue": 398431.0,
+      "margin": 166651.1,
+      "ad_units": 2354,
+      "ad_share": 0.311
+    },
+    {
+      "product_id": "A230",
+      "product_name": "Running Shoes",
+      "category": "Apparel",
+      "units": 6388,
+      "revenue": 581124.5,
+      "margin": 329654.75,
+      "ad_units": 1980,
+      "ad_share": 0.31
+    },
+    {
+      "product_id": "B400",
+      "product_name": "Vitamin C Serum",
+      "category": "Beauty",
+      "units": 6022,
+      "revenue": 184430.4,
+      "margin": 86322.88,
+      "ad_units": 1794,
+      "ad_share": 0.298
+    },
+    {
+      "product_id": "B410",
+      "product_name": "Moisturizer",
+      "category": "Beauty",
+      "units": 10257,
+      "revenue": 274652.0,
+      "margin": 125774.59999999999,
+      "ad_units": 3221,
+      "ad_share": 0.314
+    },
+    {
+      "product_id": "B420",
+      "product_name": "SPF Sunscreen",
+      "category": "Beauty",
+      "units": 9721,
+      "revenue": 222153.6,
+      "margin": 101256.0,
+      "ad_units": 2952,
+      "ad_share": 0.304
+    },
+    {
+      "product_id": "B430",
+      "product_name": "Hair Oil",
+      "category": "Beauty",
+      "units": 11544,
+      "revenue": 209891.1,
+      "margin": 98246.15000000001,
+      "ad_units": 3575,
+      "ad_share": 0.31
+    },
+    {
+      "product_id": "E100",
+      "product_name": "Wireless Earbuds",
+      "category": "Electronics",
+      "units": 7977,
+      "revenue": 600917.45,
+      "margin": 233075.28,
+      "ad_units": 2491,
+      "ad_share": 0.312
+    },
+    {
+      "product_id": "E110",
+      "product_name": "Smart Watch",
+      "category": "Electronics",
+      "units": 6645,
+      "revenue": 944689.8,
+      "margin": 422318.15,
+      "ad_units": 2080,
+      "ad_share": 0.313
+    },
+    {
+      "product_id": "E120",
+      "product_name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "units": 6279,
+      "revenue": 595801.8,
+      "margin": 338132.51999999996,
+      "ad_units": 1955,
+      "ad_share": 0.311
+    },
+    {
+      "product_id": "E130",
+      "product_name": "USB-C Hub",
+      "category": "Electronics",
+      "units": 18551,
+      "revenue": 691610.4,
+      "margin": 398234.85,
+      "ad_units": 5698,
+      "ad_share": 0.307
+    },
+    {
+      "product_id": "H300",
+      "product_name": "Aroma Diffuser",
+      "category": "Home",
+      "units": 5499,
+      "revenue": 152145.6,
+      "margin": 84419.87,
+      "ad_units": 1711,
+      "ad_share": 0.311
+    },
+    {
+      "product_id": "H310",
+      "product_name": "Weighted Blanket",
+      "category": "Home",
+      "units": 10602,
+      "revenue": 698949.3,
+      "margin": 278704.11,
+      "ad_units": 3263,
+      "ad_share": 0.308
+    },
+    {
+      "product_id": "H320",
+      "product_name": "LED Desk Lamp",
+      "category": "Home",
+      "units": 10208,
+      "revenue": 340845.75,
+      "margin": 202685.35,
+      "ad_units": 3179,
+      "ad_share": 0.311
+    },
+    {
+      "product_id": "H330",
+      "product_name": "Air Purifier",
+      "category": "Home",
+      "units": 8606,
+      "revenue": 1054897.5,
+      "margin": 396913.65,
+      "ad_units": 2653,
+      "ad_share": 0.308
+    },
+    {
+      "product_id": "S500",
+      "product_name": "Adjustable Dumbbells",
+      "category": "Sports",
+      "units": 17406,
+      "revenue": 3313081.35,
+      "margin": 1582816.15,
+      "ad_units": 5379,
+      "ad_share": 0.309
+    },
+    {
+      "product_id": "S510",
+      "product_name": "Resistance Bands Set",
+      "category": "Sports",
+      "units": 6770,
+      "revenue": 141857.1,
+      "margin": 85510.04,
+      "ad_units": 2140,
+      "ad_share": 0.316
+    },
+    {
+      "product_id": "S520",
+      "product_name": "Foam Roller",
+      "category": "Sports",
+      "units": 17809,
+      "revenue": 306268.2,
+      "margin": 155154.06,
+      "ad_units": 5434,
+      "ad_share": 0.305
+    },
+    {
+      "product_id": "S530",
+      "product_name": "Cycling Gloves",
+      "category": "Sports",
+      "units": 7516,
+      "revenue": 193779.0,
+      "margin": 75250.08,
+      "ad_units": 2344,
+      "ad_share": 0.312
+    }
+  ],
+  "byProductPlatform": [
+    {
+      "product_id": "A200",
+      "product_name": "Athletic T-Shirt",
+      "platform": "GoogleAds",
+      "units": 827,
+      "revenue": 19858.75,
+      "ad_units": 601,
+      "ad_share": 0.727
+    },
+    {
+      "product_id": "A200",
+      "product_name": "Athletic T-Shirt",
+      "platform": "Instagram",
+      "units": 779,
+      "revenue": 18667.5,
+      "ad_units": 585,
+      "ad_share": 0.751
+    },
+    {
+      "product_id": "A200",
+      "product_name": "Athletic T-Shirt",
+      "platform": "LinkedIn",
+      "units": 932,
+      "revenue": 21796.25,
+      "ad_units": 635,
+      "ad_share": 0.681
+    },
+    {
+      "product_id": "A200",
+      "product_name": "Athletic T-Shirt",
+      "platform": "Mailchimp",
+      "units": 784,
+      "revenue": 18545.0,
+      "ad_units": 549,
+      "ad_share": 0.7
+    },
+    {
+      "product_id": "A200",
+      "product_name": "Athletic T-Shirt",
+      "platform": "Organic",
+      "units": 8584,
+      "revenue": 206036.25,
+      "ad_units": 575,
+      "ad_share": 0.067
+    },
+    {
+      "product_id": "A200",
+      "product_name": "Athletic T-Shirt",
+      "platform": "X",
+      "units": 842,
+      "revenue": 20318.75,
+      "ad_units": 571,
+      "ad_share": 0.678
+    },
+    {
+      "product_id": "A200",
+      "product_name": "Athletic T-Shirt",
+      "platform": "YouTube",
+      "units": 983,
+      "revenue": 23533.75,
+      "ad_units": 682,
+      "ad_share": 0.694
+    },
+    {
+      "product_id": "A210",
+      "product_name": "Yoga Pants",
+      "platform": "GoogleAds",
+      "units": 644,
+      "revenue": 27965.25,
+      "ad_units": 468,
+      "ad_share": 0.727
+    },
+    {
+      "product_id": "A210",
+      "product_name": "Yoga Pants",
+      "platform": "Instagram",
+      "units": 710,
+      "revenue": 30609.0,
+      "ad_units": 520,
+      "ad_share": 0.732
+    },
+    {
+      "product_id": "A210",
+      "product_name": "Yoga Pants",
+      "platform": "LinkedIn",
+      "units": 687,
+      "revenue": 29814.75,
+      "ad_units": 510,
+      "ad_share": 0.742
+    },
+    {
+      "product_id": "A210",
+      "product_name": "Yoga Pants",
+      "platform": "Mailchimp",
+      "units": 620,
+      "revenue": 26401.5,
+      "ad_units": 437,
+      "ad_share": 0.705
+    },
+    {
+      "product_id": "A210",
+      "product_name": "Yoga Pants",
+      "platform": "Organic",
+      "units": 7121,
+      "revenue": 307719.0,
+      "ad_units": 496,
+      "ad_share": 0.07
+    },
+    {
+      "product_id": "A210",
+      "product_name": "Yoga Pants",
+      "platform": "X",
+      "units": 652,
+      "revenue": 28408.5,
+      "ad_units": 454,
+      "ad_share": 0.696
+    },
+    {
+      "product_id": "A210",
+      "product_name": "Yoga Pants",
+      "platform": "YouTube",
+      "units": 732,
+      "revenue": 31351.5,
+      "ad_units": 534,
+      "ad_share": 0.73
+    },
+    {
+      "product_id": "A220",
+      "product_name": "Hoodie",
+      "platform": "GoogleAds",
+      "units": 520,
+      "revenue": 26776.75,
+      "ad_units": 365,
+      "ad_share": 0.702
+    },
+    {
+      "product_id": "A220",
+      "product_name": "Hoodie",
+      "platform": "Instagram",
+      "units": 488,
+      "revenue": 25899.5,
+      "ad_units": 338,
+      "ad_share": 0.693
+    },
+    {
+      "product_id": "A220",
+      "product_name": "Hoodie",
+      "platform": "LinkedIn",
+      "units": 471,
+      "revenue": 24730.75,
+      "ad_units": 334,
+      "ad_share": 0.709
+    },
+    {
+      "product_id": "A220",
+      "product_name": "Hoodie",
+      "platform": "Mailchimp",
+      "units": 474,
+      "revenue": 25228.5,
+      "ad_units": 325,
+      "ad_share": 0.686
+    },
+    {
+      "product_id": "A220",
+      "product_name": "Hoodie",
+      "platform": "Organic",
+      "units": 4668,
+      "revenue": 245817.0,
+      "ad_units": 317,
+      "ad_share": 0.068
+    },
+    {
+      "product_id": "A220",
+      "product_name": "Hoodie",
+      "platform": "X",
+      "units": 451,
+      "revenue": 23746.25,
+      "ad_units": 316,
+      "ad_share": 0.701
+    },
+    {
+      "product_id": "A220",
+      "product_name": "Hoodie",
+      "platform": "YouTube",
+      "units": 508,
+      "revenue": 26232.25,
+      "ad_units": 359,
+      "ad_share": 0.707
+    },
+    {
+      "product_id": "A230",
+      "product_name": "Running Shoes",
+      "platform": "GoogleAds",
+      "units": 384,
+      "revenue": 35145.25,
+      "ad_units": 282,
+      "ad_share": 0.734
+    },
+    {
+      "product_id": "A230",
+      "product_name": "Running Shoes",
+      "platform": "Instagram",
+      "units": 374,
+      "revenue": 34038.5,
+      "ad_units": 269,
+      "ad_share": 0.719
+    },
+    {
+      "product_id": "A230",
+      "product_name": "Running Shoes",
+      "platform": "LinkedIn",
+      "units": 405,
+      "revenue": 36446.75,
+      "ad_units": 292,
+      "ad_share": 0.721
+    },
+    {
+      "product_id": "A230",
+      "product_name": "Running Shoes",
+      "platform": "Mailchimp",
+      "units": 390,
+      "revenue": 35468.25,
+      "ad_units": 278,
+      "ad_share": 0.713
+    },
+    {
+      "product_id": "A230",
+      "product_name": "Running Shoes",
+      "platform": "Organic",
+      "units": 4010,
+      "revenue": 364861.75,
+      "ad_units": 270,
+      "ad_share": 0.067
+    },
+    {
+      "product_id": "A230",
+      "product_name": "Running Shoes",
+      "platform": "X",
+      "units": 413,
+      "revenue": 37572.5,
+      "ad_units": 290,
+      "ad_share": 0.702
+    },
+    {
+      "product_id": "A230",
+      "product_name": "Running Shoes",
+      "platform": "YouTube",
+      "units": 412,
+      "revenue": 37591.5,
+      "ad_units": 299,
+      "ad_share": 0.726
+    },
+    {
+      "product_id": "B400",
+      "product_name": "Vitamin C Serum",
+      "platform": "GoogleAds",
+      "units": 407,
+      "revenue": 12633.6,
+      "ad_units": 261,
+      "ad_share": 0.641
+    },
+    {
+      "product_id": "B400",
+      "product_name": "Vitamin C Serum",
+      "platform": "Instagram",
+      "units": 331,
+      "revenue": 10092.8,
+      "ad_units": 250,
+      "ad_share": 0.755
+    },
+    {
+      "product_id": "B400",
+      "product_name": "Vitamin C Serum",
+      "platform": "LinkedIn",
+      "units": 309,
+      "revenue": 9560.0,
+      "ad_units": 227,
+      "ad_share": 0.735
+    },
+    {
+      "product_id": "B400",
+      "product_name": "Vitamin C Serum",
+      "platform": "Mailchimp",
+      "units": 364,
+      "revenue": 11140.8,
+      "ad_units": 248,
+      "ad_share": 0.681
+    },
+    {
+      "product_id": "B400",
+      "product_name": "Vitamin C Serum",
+      "platform": "Organic",
+      "units": 3796,
+      "revenue": 116129.6,
+      "ad_units": 236,
+      "ad_share": 0.062
+    },
+    {
+      "product_id": "B400",
+      "product_name": "Vitamin C Serum",
+      "platform": "X",
+      "units": 371,
+      "revenue": 11323.2,
+      "ad_units": 256,
+      "ad_share": 0.69
+    },
+    {
+      "product_id": "B400",
+      "product_name": "Vitamin C Serum",
+      "platform": "YouTube",
+      "units": 444,
+      "revenue": 13550.4,
+      "ad_units": 316,
+      "ad_share": 0.712
+    },
+    {
+      "product_id": "B410",
+      "product_name": "Moisturizer",
+      "platform": "GoogleAds",
+      "units": 685,
+      "revenue": 18544.4,
+      "ad_units": 489,
+      "ad_share": 0.714
+    },
+    {
+      "product_id": "B410",
+      "product_name": "Moisturizer",
+      "platform": "Instagram",
+      "units": 649,
+      "revenue": 17320.8,
+      "ad_units": 450,
+      "ad_share": 0.693
+    },
+    {
+      "product_id": "B410",
+      "product_name": "Moisturizer",
+      "platform": "LinkedIn",
+      "units": 664,
+      "revenue": 17584.0,
+      "ad_units": 460,
+      "ad_share": 0.693
+    },
+    {
+      "product_id": "B410",
+      "product_name": "Moisturizer",
+      "platform": "Mailchimp",
+      "units": 636,
+      "revenue": 17140.2,
+      "ad_units": 449,
+      "ad_share": 0.706
+    },
+    {
+      "product_id": "B410",
+      "product_name": "Moisturizer",
+      "platform": "Organic",
+      "units": 6407,
+      "revenue": 171614.8,
+      "ad_units": 478,
+      "ad_share": 0.075
+    },
+    {
+      "product_id": "B410",
+      "product_name": "Moisturizer",
+      "platform": "X",
+      "units": 551,
+      "revenue": 14686.0,
+      "ad_units": 413,
+      "ad_share": 0.75
+    },
+    {
+      "product_id": "B410",
+      "product_name": "Moisturizer",
+      "platform": "YouTube",
+      "units": 665,
+      "revenue": 17761.8,
+      "ad_units": 482,
+      "ad_share": 0.725
+    },
+    {
+      "product_id": "B420",
+      "product_name": "SPF Sunscreen",
+      "platform": "GoogleAds",
+      "units": 617,
+      "revenue": 14194.8,
+      "ad_units": 438,
+      "ad_share": 0.71
+    },
+    {
+      "product_id": "B420",
+      "product_name": "SPF Sunscreen",
+      "platform": "Instagram",
+      "units": 648,
+      "revenue": 14980.8,
+      "ad_units": 448,
+      "ad_share": 0.691
+    },
+    {
+      "product_id": "B420",
+      "product_name": "SPF Sunscreen",
+      "platform": "LinkedIn",
+      "units": 610,
+      "revenue": 13988.4,
+      "ad_units": 445,
+      "ad_share": 0.73
+    },
+    {
+      "product_id": "B420",
+      "product_name": "SPF Sunscreen",
+      "platform": "Mailchimp",
+      "units": 621,
+      "revenue": 13932.0,
+      "ad_units": 423,
+      "ad_share": 0.681
+    },
+    {
+      "product_id": "B420",
+      "product_name": "SPF Sunscreen",
+      "platform": "Organic",
+      "units": 6094,
+      "revenue": 139165.2,
+      "ad_units": 385,
+      "ad_share": 0.063
+    },
+    {
+      "product_id": "B420",
+      "product_name": "SPF Sunscreen",
+      "platform": "X",
+      "units": 585,
+      "revenue": 13592.4,
+      "ad_units": 408,
+      "ad_share": 0.697
+    },
+    {
+      "product_id": "B420",
+      "product_name": "SPF Sunscreen",
+      "platform": "YouTube",
+      "units": 546,
+      "revenue": 12300.0,
+      "ad_units": 405,
+      "ad_share": 0.742
+    },
+    {
+      "product_id": "B430",
+      "product_name": "Hair Oil",
+      "platform": "GoogleAds",
+      "units": 725,
+      "revenue": 13338.95,
+      "ad_units": 510,
+      "ad_share": 0.703
+    },
+    {
+      "product_id": "B430",
+      "product_name": "Hair Oil",
+      "platform": "Instagram",
+      "units": 750,
+      "revenue": 13503.3,
+      "ad_units": 509,
+      "ad_share": 0.679
+    },
+    {
+      "product_id": "B430",
+      "product_name": "Hair Oil",
+      "platform": "LinkedIn",
+      "units": 710,
+      "revenue": 12908.6,
+      "ad_units": 505,
+      "ad_share": 0.711
+    },
+    {
+      "product_id": "B430",
+      "product_name": "Hair Oil",
+      "platform": "Mailchimp",
+      "units": 659,
+      "revenue": 12101.1,
+      "ad_units": 483,
+      "ad_share": 0.733
+    },
+    {
+      "product_id": "B430",
+      "product_name": "Hair Oil",
+      "platform": "Organic",
+      "units": 7277,
+      "revenue": 132075.65,
+      "ad_units": 503,
+      "ad_share": 0.069
+    },
+    {
+      "product_id": "B430",
+      "product_name": "Hair Oil",
+      "platform": "X",
+      "units": 659,
+      "revenue": 12098.25,
+      "ad_units": 496,
+      "ad_share": 0.753
+    },
+    {
+      "product_id": "B430",
+      "product_name": "Hair Oil",
+      "platform": "YouTube",
+      "units": 764,
+      "revenue": 13865.25,
+      "ad_units": 569,
+      "ad_share": 0.745
+    },
+    {
+      "product_id": "E100",
+      "product_name": "Wireless Earbuds",
+      "platform": "GoogleAds",
+      "units": 485,
+      "revenue": 36731.05,
+      "ad_units": 349,
+      "ad_share": 0.72
+    },
+    {
+      "product_id": "E100",
+      "product_name": "Wireless Earbuds",
+      "platform": "Instagram",
+      "units": 514,
+      "revenue": 39041.8,
+      "ad_units": 361,
+      "ad_share": 0.702
+    },
+    {
+      "product_id": "E100",
+      "product_name": "Wireless Earbuds",
+      "platform": "LinkedIn",
+      "units": 513,
+      "revenue": 38777.15,
+      "ad_units": 368,
+      "ad_share": 0.717
+    },
+    {
+      "product_id": "E100",
+      "product_name": "Wireless Earbuds",
+      "platform": "Mailchimp",
+      "units": 465,
+      "revenue": 35621.1,
+      "ad_units": 336,
+      "ad_share": 0.723
+    },
+    {
+      "product_id": "E100",
+      "product_name": "Wireless Earbuds",
+      "platform": "Organic",
+      "units": 5037,
+      "revenue": 378410.0,
+      "ad_units": 368,
+      "ad_share": 0.073
+    },
+    {
+      "product_id": "E100",
+      "product_name": "Wireless Earbuds",
+      "platform": "X",
+      "units": 440,
+      "revenue": 32401.85,
+      "ad_units": 329,
+      "ad_share": 0.748
+    },
+    {
+      "product_id": "E100",
+      "product_name": "Wireless Earbuds",
+      "platform": "YouTube",
+      "units": 523,
+      "revenue": 39934.5,
+      "ad_units": 380,
+      "ad_share": 0.727
+    },
+    {
+      "product_id": "E110",
+      "product_name": "Smart Watch",
+      "platform": "GoogleAds",
+      "units": 442,
+      "revenue": 62550.2,
+      "ad_units": 309,
+      "ad_share": 0.699
+    },
+    {
+      "product_id": "E110",
+      "product_name": "Smart Watch",
+      "platform": "Instagram",
+      "units": 370,
+      "revenue": 52932.25,
+      "ad_units": 268,
+      "ad_share": 0.724
+    },
+    {
+      "product_id": "E110",
+      "product_name": "Smart Watch",
+      "platform": "LinkedIn",
+      "units": 422,
+      "revenue": 60628.1,
+      "ad_units": 288,
+      "ad_share": 0.682
+    },
+    {
+      "product_id": "E110",
+      "product_name": "Smart Watch",
+      "platform": "Mailchimp",
+      "units": 390,
+      "revenue": 55495.05,
+      "ad_units": 286,
+      "ad_share": 0.733
+    },
+    {
+      "product_id": "E110",
+      "product_name": "Smart Watch",
+      "platform": "Organic",
+      "units": 4185,
+      "revenue": 593571.3,
+      "ad_units": 316,
+      "ad_share": 0.076
+    },
+    {
+      "product_id": "E110",
+      "product_name": "Smart Watch",
+      "platform": "X",
+      "units": 411,
+      "revenue": 58400.55,
+      "ad_units": 305,
+      "ad_share": 0.742
+    },
+    {
+      "product_id": "E110",
+      "product_name": "Smart Watch",
+      "platform": "YouTube",
+      "units": 425,
+      "revenue": 61112.35,
+      "ad_units": 308,
+      "ad_share": 0.725
+    },
+    {
+      "product_id": "E120",
+      "product_name": "Bluetooth Speaker",
+      "platform": "GoogleAds",
+      "units": 401,
+      "revenue": 37862.55,
+      "ad_units": 299,
+      "ad_share": 0.746
+    },
+    {
+      "product_id": "E120",
+      "product_name": "Bluetooth Speaker",
+      "platform": "Instagram",
+      "units": 409,
+      "revenue": 38822.85,
+      "ad_units": 308,
+      "ad_share": 0.753
+    },
+    {
+      "product_id": "E120",
+      "product_name": "Bluetooth Speaker",
+      "platform": "LinkedIn",
+      "units": 400,
+      "revenue": 38144.7,
+      "ad_units": 269,
+      "ad_share": 0.672
+    },
+    {
+      "product_id": "E120",
+      "product_name": "Bluetooth Speaker",
+      "platform": "Mailchimp",
+      "units": 361,
+      "revenue": 34001.55,
+      "ad_units": 260,
+      "ad_share": 0.72
+    },
+    {
+      "product_id": "E120",
+      "product_name": "Bluetooth Speaker",
+      "platform": "Organic",
+      "units": 3951,
+      "revenue": 374566.5,
+      "ad_units": 275,
+      "ad_share": 0.07
+    },
+    {
+      "product_id": "E120",
+      "product_name": "Bluetooth Speaker",
+      "platform": "X",
+      "units": 356,
+      "revenue": 33887.7,
+      "ad_units": 257,
+      "ad_share": 0.722
+    },
+    {
+      "product_id": "E120",
+      "product_name": "Bluetooth Speaker",
+      "platform": "YouTube",
+      "units": 401,
+      "revenue": 38515.95,
+      "ad_units": 287,
+      "ad_share": 0.716
+    },
+    {
+      "product_id": "E130",
+      "product_name": "USB-C Hub",
+      "platform": "GoogleAds",
+      "units": 1166,
+      "revenue": 44019.3,
+      "ad_units": 831,
+      "ad_share": 0.713
+    },
+    {
+      "product_id": "E130",
+      "product_name": "USB-C Hub",
+      "platform": "Instagram",
+      "units": 1138,
+      "revenue": 41880.15,
+      "ad_units": 808,
+      "ad_share": 0.71
+    },
+    {
+      "product_id": "E130",
+      "product_name": "USB-C Hub",
+      "platform": "LinkedIn",
+      "units": 1234,
+      "revenue": 46293.0,
+      "ad_units": 893,
+      "ad_share": 0.724
+    },
+    {
+      "product_id": "E130",
+      "product_name": "USB-C Hub",
+      "platform": "Mailchimp",
+      "units": 1067,
+      "revenue": 39302.25,
+      "ad_units": 755,
+      "ad_share": 0.708
+    },
+    {
+      "product_id": "E130",
+      "product_name": "USB-C Hub",
+      "platform": "Organic",
+      "units": 11695,
+      "revenue": 436335.9,
+      "ad_units": 794,
+      "ad_share": 0.068
+    },
+    {
+      "product_id": "E130",
+      "product_name": "USB-C Hub",
+      "platform": "X",
+      "units": 1075,
+      "revenue": 40199.25,
+      "ad_units": 766,
+      "ad_share": 0.713
+    },
+    {
+      "product_id": "E130",
+      "product_name": "USB-C Hub",
+      "platform": "YouTube",
+      "units": 1176,
+      "revenue": 43580.55,
+      "ad_units": 851,
+      "ad_share": 0.724
+    },
+    {
+      "product_id": "H300",
+      "product_name": "Aroma Diffuser",
+      "platform": "GoogleAds",
+      "units": 357,
+      "revenue": 9916.55,
+      "ad_units": 263,
+      "ad_share": 0.737
+    },
+    {
+      "product_id": "H300",
+      "product_name": "Aroma Diffuser",
+      "platform": "Instagram",
+      "units": 360,
+      "revenue": 9903.5,
+      "ad_units": 244,
+      "ad_share": 0.678
+    },
+    {
+      "product_id": "H300",
+      "product_name": "Aroma Diffuser",
+      "platform": "LinkedIn",
+      "units": 347,
+      "revenue": 9619.3,
+      "ad_units": 267,
+      "ad_share": 0.769
+    },
+    {
+      "product_id": "H300",
+      "product_name": "Aroma Diffuser",
+      "platform": "Mailchimp",
+      "units": 323,
+      "revenue": 8926.2,
+      "ad_units": 235,
+      "ad_share": 0.728
+    },
+    {
+      "product_id": "H300",
+      "product_name": "Aroma Diffuser",
+      "platform": "Organic",
+      "units": 3458,
+      "revenue": 95755.1,
+      "ad_units": 234,
+      "ad_share": 0.068
+    },
+    {
+      "product_id": "H300",
+      "product_name": "Aroma Diffuser",
+      "platform": "X",
+      "units": 309,
+      "revenue": 8504.25,
+      "ad_units": 219,
+      "ad_share": 0.709
+    },
+    {
+      "product_id": "H300",
+      "product_name": "Aroma Diffuser",
+      "platform": "YouTube",
+      "units": 345,
+      "revenue": 9520.7,
+      "ad_units": 249,
+      "ad_share": 0.722
+    },
+    {
+      "product_id": "H310",
+      "product_name": "Weighted Blanket",
+      "platform": "GoogleAds",
+      "units": 684,
+      "revenue": 44891.4,
+      "ad_units": 499,
+      "ad_share": 0.73
+    },
+    {
+      "product_id": "H310",
+      "product_name": "Weighted Blanket",
+      "platform": "Instagram",
+      "units": 658,
+      "revenue": 43545.9,
+      "ad_units": 489,
+      "ad_share": 0.743
+    },
+    {
+      "product_id": "H310",
+      "product_name": "Weighted Blanket",
+      "platform": "LinkedIn",
+      "units": 655,
+      "revenue": 42866.25,
+      "ad_units": 460,
+      "ad_share": 0.702
+    },
+    {
+      "product_id": "H310",
+      "product_name": "Weighted Blanket",
+      "platform": "Mailchimp",
+      "units": 526,
+      "revenue": 34327.5,
+      "ad_units": 384,
+      "ad_share": 0.73
+    },
+    {
+      "product_id": "H310",
+      "product_name": "Weighted Blanket",
+      "platform": "Organic",
+      "units": 6767,
+      "revenue": 447299.4,
+      "ad_units": 477,
+      "ad_share": 0.07
+    },
+    {
+      "product_id": "H310",
+      "product_name": "Weighted Blanket",
+      "platform": "X",
+      "units": 651,
+      "revenue": 42845.55,
+      "ad_units": 475,
+      "ad_share": 0.73
+    },
+    {
+      "product_id": "H310",
+      "product_name": "Weighted Blanket",
+      "platform": "YouTube",
+      "units": 661,
+      "revenue": 43173.3,
+      "ad_units": 479,
+      "ad_share": 0.725
+    },
+    {
+      "product_id": "H320",
+      "product_name": "LED Desk Lamp",
+      "platform": "GoogleAds",
+      "units": 622,
+      "revenue": 20776.0,
+      "ad_units": 475,
+      "ad_share": 0.764
+    },
+    {
+      "product_id": "H320",
+      "product_name": "LED Desk Lamp",
+      "platform": "Instagram",
+      "units": 611,
+      "revenue": 20704.25,
+      "ad_units": 430,
+      "ad_share": 0.704
+    },
+    {
+      "product_id": "H320",
+      "product_name": "LED Desk Lamp",
+      "platform": "LinkedIn",
+      "units": 673,
+      "revenue": 22505.0,
+      "ad_units": 477,
+      "ad_share": 0.709
+    },
+    {
+      "product_id": "H320",
+      "product_name": "LED Desk Lamp",
+      "platform": "Mailchimp",
+      "units": 563,
+      "revenue": 18961.25,
+      "ad_units": 409,
+      "ad_share": 0.726
+    },
+    {
+      "product_id": "H320",
+      "product_name": "LED Desk Lamp",
+      "platform": "Organic",
+      "units": 6458,
+      "revenue": 215213.25,
+      "ad_units": 446,
+      "ad_share": 0.069
+    },
+    {
+      "product_id": "H320",
+      "product_name": "LED Desk Lamp",
+      "platform": "X",
+      "units": 625,
+      "revenue": 20881.0,
+      "ad_units": 447,
+      "ad_share": 0.715
+    },
+    {
+      "product_id": "H320",
+      "product_name": "LED Desk Lamp",
+      "platform": "YouTube",
+      "units": 656,
+      "revenue": 21805.0,
+      "ad_units": 495,
+      "ad_share": 0.755
+    },
+    {
+      "product_id": "H330",
+      "product_name": "Air Purifier",
+      "platform": "GoogleAds",
+      "units": 589,
+      "revenue": 71066.1,
+      "ad_units": 403,
+      "ad_share": 0.684
+    },
+    {
+      "product_id": "H330",
+      "product_name": "Air Purifier",
+      "platform": "Instagram",
+      "units": 503,
+      "revenue": 61500.75,
+      "ad_units": 362,
+      "ad_share": 0.72
+    },
+    {
+      "product_id": "H330",
+      "product_name": "Air Purifier",
+      "platform": "LinkedIn",
+      "units": 510,
+      "revenue": 62700.45,
+      "ad_units": 397,
+      "ad_share": 0.778
+    },
+    {
+      "product_id": "H330",
+      "product_name": "Air Purifier",
+      "platform": "Mailchimp",
+      "units": 509,
+      "revenue": 63551.85,
+      "ad_units": 354,
+      "ad_share": 0.695
+    },
+    {
+      "product_id": "H330",
+      "product_name": "Air Purifier",
+      "platform": "Organic",
+      "units": 5420,
+      "revenue": 662034.45,
+      "ad_units": 391,
+      "ad_share": 0.072
+    },
+    {
+      "product_id": "H330",
+      "product_name": "Air Purifier",
+      "platform": "X",
+      "units": 546,
+      "revenue": 68737.65,
+      "ad_units": 374,
+      "ad_share": 0.685
+    },
+    {
+      "product_id": "H330",
+      "product_name": "Air Purifier",
+      "platform": "YouTube",
+      "units": 529,
+      "revenue": 65306.25,
+      "ad_units": 372,
+      "ad_share": 0.703
+    },
+    {
+      "product_id": "S500",
+      "product_name": "Adjustable Dumbbells",
+      "platform": "GoogleAds",
+      "units": 1028,
+      "revenue": 195099.6,
+      "ad_units": 753,
+      "ad_share": 0.732
+    },
+    {
+      "product_id": "S500",
+      "product_name": "Adjustable Dumbbells",
+      "platform": "Instagram",
+      "units": 1047,
+      "revenue": 198781.1,
+      "ad_units": 746,
+      "ad_share": 0.713
+    },
+    {
+      "product_id": "S500",
+      "product_name": "Adjustable Dumbbells",
+      "platform": "LinkedIn",
+      "units": 1044,
+      "revenue": 199000.0,
+      "ad_units": 772,
+      "ad_share": 0.739
+    },
+    {
+      "product_id": "S500",
+      "product_name": "Adjustable Dumbbells",
+      "platform": "Mailchimp",
+      "units": 983,
+      "revenue": 187686.85,
+      "ad_units": 727,
+      "ad_share": 0.74
+    },
+    {
+      "product_id": "S500",
+      "product_name": "Adjustable Dumbbells",
+      "platform": "Organic",
+      "units": 11056,
+      "revenue": 2103877.75,
+      "ad_units": 794,
+      "ad_share": 0.072
+    },
+    {
+      "product_id": "S500",
+      "product_name": "Adjustable Dumbbells",
+      "platform": "X",
+      "units": 1078,
+      "revenue": 208293.3,
+      "ad_units": 764,
+      "ad_share": 0.709
+    },
+    {
+      "product_id": "S500",
+      "product_name": "Adjustable Dumbbells",
+      "platform": "YouTube",
+      "units": 1170,
+      "revenue": 220342.75,
+      "ad_units": 823,
+      "ad_share": 0.703
+    },
+    {
+      "product_id": "S510",
+      "product_name": "Resistance Bands Set",
+      "platform": "GoogleAds",
+      "units": 413,
+      "revenue": 8687.8,
+      "ad_units": 301,
+      "ad_share": 0.729
+    },
+    {
+      "product_id": "S510",
+      "product_name": "Resistance Bands Set",
+      "platform": "Instagram",
+      "units": 397,
+      "revenue": 8341.3,
+      "ad_units": 304,
+      "ad_share": 0.766
+    },
+    {
+      "product_id": "S510",
+      "product_name": "Resistance Bands Set",
+      "platform": "LinkedIn",
+      "units": 420,
+      "revenue": 8515.1,
+      "ad_units": 314,
+      "ad_share": 0.748
+    },
+    {
+      "product_id": "S510",
+      "product_name": "Resistance Bands Set",
+      "platform": "Mailchimp",
+      "units": 434,
+      "revenue": 9157.5,
+      "ad_units": 304,
+      "ad_share": 0.7
+    },
+    {
+      "product_id": "S510",
+      "product_name": "Resistance Bands Set",
+      "platform": "Organic",
+      "units": 4211,
+      "revenue": 88397.1,
+      "ad_units": 282,
+      "ad_share": 0.067
+    },
+    {
+      "product_id": "S510",
+      "product_name": "Resistance Bands Set",
+      "platform": "X",
+      "units": 402,
+      "revenue": 8441.4,
+      "ad_units": 293,
+      "ad_share": 0.729
+    },
+    {
+      "product_id": "S510",
+      "product_name": "Resistance Bands Set",
+      "platform": "YouTube",
+      "units": 493,
+      "revenue": 10316.9,
+      "ad_units": 342,
+      "ad_share": 0.694
+    },
+    {
+      "product_id": "S520",
+      "product_name": "Foam Roller",
+      "platform": "GoogleAds",
+      "units": 1031,
+      "revenue": 17830.8,
+      "ad_units": 758,
+      "ad_share": 0.735
+    },
+    {
+      "product_id": "S520",
+      "product_name": "Foam Roller",
+      "platform": "Instagram",
+      "units": 1116,
+      "revenue": 19142.1,
+      "ad_units": 777,
+      "ad_share": 0.696
+    },
+    {
+      "product_id": "S520",
+      "product_name": "Foam Roller",
+      "platform": "LinkedIn",
+      "units": 1115,
+      "revenue": 19131.3,
+      "ad_units": 806,
+      "ad_share": 0.723
+    },
+    {
+      "product_id": "S520",
+      "product_name": "Foam Roller",
+      "platform": "Mailchimp",
+      "units": 1013,
+      "revenue": 17208.0,
+      "ad_units": 717,
+      "ad_share": 0.708
+    },
+    {
+      "product_id": "S520",
+      "product_name": "Foam Roller",
+      "platform": "Organic",
+      "units": 11251,
+      "revenue": 193954.5,
+      "ad_units": 767,
+      "ad_share": 0.068
+    },
+    {
+      "product_id": "S520",
+      "product_name": "Foam Roller",
+      "platform": "X",
+      "units": 1093,
+      "revenue": 18726.3,
+      "ad_units": 749,
+      "ad_share": 0.685
+    },
+    {
+      "product_id": "S520",
+      "product_name": "Foam Roller",
+      "platform": "YouTube",
+      "units": 1190,
+      "revenue": 20275.2,
+      "ad_units": 860,
+      "ad_share": 0.723
+    },
+    {
+      "product_id": "S530",
+      "product_name": "Cycling Gloves",
+      "platform": "GoogleAds",
+      "units": 472,
+      "revenue": 11966.4,
+      "ad_units": 343,
+      "ad_share": 0.727
+    },
+    {
+      "product_id": "S530",
+      "product_name": "Cycling Gloves",
+      "platform": "Instagram",
+      "units": 465,
+      "revenue": 11915.1,
+      "ad_units": 331,
+      "ad_share": 0.712
+    },
+    {
+      "product_id": "S530",
+      "product_name": "Cycling Gloves",
+      "platform": "LinkedIn",
+      "units": 461,
+      "revenue": 11928.6,
+      "ad_units": 309,
+      "ad_share": 0.67
+    },
+    {
+      "product_id": "S530",
+      "product_name": "Cycling Gloves",
+      "platform": "Mailchimp",
+      "units": 447,
+      "revenue": 11699.1,
+      "ad_units": 320,
+      "ad_share": 0.716
+    },
+    {
+      "product_id": "S530",
+      "product_name": "Cycling Gloves",
+      "platform": "Organic",
+      "units": 4679,
+      "revenue": 120405.15,
+      "ad_units": 321,
+      "ad_share": 0.069
+    },
+    {
+      "product_id": "S530",
+      "product_name": "Cycling Gloves",
+      "platform": "X",
+      "units": 460,
+      "revenue": 12070.35,
+      "ad_units": 323,
+      "ad_share": 0.702
+    },
+    {
+      "product_id": "S530",
+      "product_name": "Cycling Gloves",
+      "platform": "YouTube",
+      "units": 532,
+      "revenue": 13794.3,
+      "ad_units": 397,
+      "ad_share": 0.746
+    }
+  ],
+  "topProductsByRevenue": [
+    {
+      "product_id": "S500",
+      "product_name": "Adjustable Dumbbells",
+      "category": "Sports",
+      "units": 17406,
+      "revenue": 3313081.35,
+      "margin": 1582816.15,
+      "ad_units": 5379,
+      "ad_share": 0.309
+    },
+    {
+      "product_id": "H330",
+      "product_name": "Air Purifier",
+      "category": "Home",
+      "units": 8606,
+      "revenue": 1054897.5,
+      "margin": 396913.65,
+      "ad_units": 2653,
+      "ad_share": 0.308
+    },
+    {
+      "product_id": "E110",
+      "product_name": "Smart Watch",
+      "category": "Electronics",
+      "units": 6645,
+      "revenue": 944689.8,
+      "margin": 422318.15,
+      "ad_units": 2080,
+      "ad_share": 0.313
+    },
+    {
+      "product_id": "H310",
+      "product_name": "Weighted Blanket",
+      "category": "Home",
+      "units": 10602,
+      "revenue": 698949.3,
+      "margin": 278704.11,
+      "ad_units": 3263,
+      "ad_share": 0.308
+    },
+    {
+      "product_id": "E130",
+      "product_name": "USB-C Hub",
+      "category": "Electronics",
+      "units": 18551,
+      "revenue": 691610.4,
+      "margin": 398234.85,
+      "ad_units": 5698,
+      "ad_share": 0.307
+    },
+    {
+      "product_id": "E100",
+      "product_name": "Wireless Earbuds",
+      "category": "Electronics",
+      "units": 7977,
+      "revenue": 600917.45,
+      "margin": 233075.28,
+      "ad_units": 2491,
+      "ad_share": 0.312
+    },
+    {
+      "product_id": "E120",
+      "product_name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "units": 6279,
+      "revenue": 595801.8,
+      "margin": 338132.51999999996,
+      "ad_units": 1955,
+      "ad_share": 0.311
+    },
+    {
+      "product_id": "A230",
+      "product_name": "Running Shoes",
+      "category": "Apparel",
+      "units": 6388,
+      "revenue": 581124.5,
+      "margin": 329654.75,
+      "ad_units": 1980,
+      "ad_share": 0.31
+    },
+    {
+      "product_id": "A210",
+      "product_name": "Yoga Pants",
+      "category": "Apparel",
+      "units": 11166,
+      "revenue": 482269.5,
+      "margin": 245458.35,
+      "ad_units": 3419,
+      "ad_share": 0.306
+    },
+    {
+      "product_id": "A220",
+      "product_name": "Hoodie",
+      "category": "Apparel",
+      "units": 7580,
+      "revenue": 398431.0,
+      "margin": 166651.1,
+      "ad_units": 2354,
+      "ad_share": 0.311
+    }
+  ],
+  "adVsOrganicUnits": [
+    {
+      "label": "Ad-assisted",
+      "units": 86406
+    },
+    {
+      "label": "Organic",
+      "units": 113871
+    }
+  ]
+}
